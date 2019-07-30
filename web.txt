@@ -6,14 +6,14 @@
 <!--[if (gt IE 9)|!(IE)]><!--><html class="standard"><!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>【云管平台研发工程师招聘】_青云招聘-BOSS直聘</title>
-    <meta name="keywords" content="云管平台研发工程师,云管平台研发工程师招聘,青云云管平台研发工程师招聘"/>
-    <meta name="description" content="青云招聘云管平台研发工程师牛人,更多青云云管平台研发工程师招聘信息,请登录BOSS直聘查看详细的青云对云管平台研发工程师岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。"/>
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.zhipin.com/job_detail/11a400b48860f91c1Xd52tm_E1s~.html">
-    <link rel="canonical" href="https://www.zhipin.com/job_detail/11a400b48860f91c1Xd52tm_E1s~.html">
+    <title>【Linux系统工程师-虚拟化及云计算方向招聘】_东云睿连招聘-BOSS直聘</title>
+    <meta name="keywords" content="Linux系统工程师-虚拟化及云计算方向,Linux系统工程师-虚拟化及云计算方向招聘,东云睿连Linux系统工程师-虚拟化及云计算方向招聘"/>
+    <meta name="description" content="东云睿连招聘Linux系统工程师-虚拟化及云计算方向牛人,更多东云睿连Linux系统工程师-虚拟化及云计算方向招聘信息,请登录BOSS直聘查看详细的东云睿连对Linux系统工程师-虚拟化及云计算方向岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.zhipin.com/job_detail/afbbc2081c296f4203d63dW5EVA~.html">
+    <link rel="canonical" href="https://www.zhipin.com/job_detail/afbbc2081c296f4203d63dW5EVA~.html">
     <meta name="applicable-device" content="pc">
-    <meta name="mobile-agent" content="format=html5;url=https://m.zhipin.com/job_detail/11a400b48860f91c1Xd52tm_E1s~.html">
-    <link href="https://static.zhipin.com/zhipin-geek/v24/web/geek/css/main.css" type="text/css" rel="stylesheet">
+    <meta name="mobile-agent" content="format=html5;url=https://m.zhipin.com/job_detail/afbbc2081c296f4203d63dW5EVA~.html">
+    <link href="https://static.zhipin.com/zhipin-geek/v25/web/geek/css/main.css" type="text/css" rel="stylesheet">
     <script type="text/javascript">
         var _userInfo = {
             showTip: false,
@@ -23,15 +23,15 @@
             hasKaAnotherS: false
         };
         var _reportData = {
-            reportedId: 'c1430c91e942c2a61HJz2tu9Fg~~',
-            targetId: '23314239'
+            reportedId: '553f3fc036d42eac0nN73dq7EVo~',
+            targetId: '43068412'
         };
         var _jobInfo = {
-            job_id: '11a400b48860f91c1Xd52tm_E1s~',
-            job_name: '云管平台研发工程师',
-            job_salary: '15-30K',
-            company:'青云',
-            brand_logo:'https://img.bosszhipin.com/beijin/mcs/chatphoto/20180129/b51f459eb70544811885dee754b297a8e77c91c2418968c0db553ae5dcc7b91f.jpg'
+            job_id: 'afbbc2081c296f4203d63dW5EVA~',
+            job_name: 'Linux系统工程师-虚拟化及云计算方向',
+            job_salary: '12-20K·15薪',
+            company:'东云睿连',
+            brand_logo:'https://img.bosszhipin.com/beijin/mcs/chatphoto/20190423/49a8f16dce44b240dfe4ede541565574329f22eabbd318ea9c7208caf20c2f1a_s.jpg'
         };
     </script>
 
@@ -96,36 +96,36 @@
                     <div class="pos-bread">
                         <a href="/" ka="job-breadcrumb-top1">首页</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/c101200100/" ka="job-breadcrumb-top2">武汉招聘</a>·<a href="/p100101/" ka="job-breadcrumb-top21">Java招聘</a>
+                        <a href="/c101200100/" ka="job-breadcrumb-top2">武汉招聘</a>·<a href="/p100102/" ka="job-breadcrumb-top21">C++招聘</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/c101200100-p100101/" ka="job-breadcrumb-top3">武汉Java招聘</a>
+                        <a href="/c101200100-p100102/" ka="job-breadcrumb-top3">武汉C++招聘</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/job_detail/11a400b48860f91c1Xd52tm_E1s~.html" ka="job-breadcrumb-top4">青云云管平台研发工程师招聘</a>
+                        <a href="/job_detail/afbbc2081c296f4203d63dW5EVA~.html" ka="job-breadcrumb-top4">东云睿连Linux系统工程师-虚拟化及云计算方向招聘</a>
                     </div>
                     <div class="info-primary">
                         <div class="job-status">招聘中</div>
                         <div class="name">
-                            <h1>云管平台研发工程师</h1>
-                            <span class="salary">15-30K</span>
+                            <h1>Linux系统工程师-虚拟化及云计算方向</h1>
+                            <span class="salary">12-20K·15薪</span>
                         </div>
                             <p>武汉<em class="dolt"></em>3-5年<em class="dolt"></em>本科</p>
                             <div class="tag-container">
                                 <div class="tag-more" style="opacity: 1;">
                                     <span class="link-more">...</span>
                                     <div class="tag-all job-tags">
-                                        <span>五险一金</span><span>补充医疗保险</span><span>定期体检</span><span>年终奖</span>
+                                        <span>五险一金</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span>
                                     </div>
                                 </div>
                                 <div class="job-tags">
-                                    <span>五险一金</span><span>补充医疗保险</span><span>定期体检</span><span>年终奖</span>
+                                    <span>五险一金</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span>
                                 </div>
                             </div>
                     </div>
                     <div class="job-op">
                         <div class="btn-container">
                             <!-- 未登录 -->
-                                                 <a class="btn btn-startchat" ka="go_greet_tosign_23314239" href="javascript:;" redirect-url="/geek/new/index/chat?id=c1430c91e942c2a61HJz2tu9Fg~~" target="_blank"
-                          data-url="/wapi/zpgeek/friend/add.json?jobId=11a400b48860f91c1Xd52tm_E1s~&lid=1CwjQEy0QWW.search">立即沟通</a>
+                                                 <a class="btn btn-startchat" ka="go_greet_tosign_43068412" href="javascript:;" redirect-url="/geek/new/index/chat?id=553f3fc036d42eac0nN73dq7EVo~" target="_blank"
+                          data-url="/wapi/zpgeek/friend/add.json?jobId=afbbc2081c296f4203d63dW5EVA~">立即沟通</a>
 
                         </div>
                         <div class="op-container">
@@ -142,29 +142,29 @@
             <div class="inner home-inner">
                 <div class="detail-op">
                     <div class="btns">
-                                             <a class="btn btn-startchat" ka="go_greet_tosign_23314239" href="javascript:;" redirect-url="/geek/new/index/chat?id=c1430c91e942c2a61HJz2tu9Fg~~" target="_blank"
-                          data-url="/wapi/zpgeek/friend/add.json?jobId=11a400b48860f91c1Xd52tm_E1s~&lid=1CwjQEy0QWW.search">立即沟通</a>
+                                             <a class="btn btn-startchat" ka="go_greet_tosign_43068412" href="javascript:;" redirect-url="/geek/new/index/chat?id=553f3fc036d42eac0nN73dq7EVo~" target="_blank"
+                          data-url="/wapi/zpgeek/friend/add.json?jobId=afbbc2081c296f4203d63dW5EVA~">立即沟通</a>
 
                     </div>
                 </div>
                 <div class="company-info">
                     <div class="name">
-                        <h1>云管平台研发工程师</h1>
-                        <span class="badge">15-30K</span></div>
+                        <h1>Linux系统工程师-虚拟化及云计算方向</h1>
+                        <span class="badge">12-20K·15薪</span></div>
                         <div class="tag-container">
                             <div class="tag-more" style="opacity: 1;">
                                 <span class="link-more">...</span>
                                 <div class="tag-all job-tags">
-                                    <span>五险一金</span><span>补充医疗保险</span><span>定期体检</span><span>年终奖</span>
+                                    <span>五险一金</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span>
                                 </div>
                             </div>
                             <div class="job-tags">
-                                <span>五险一金</span><span>补充医疗保险</span><span>定期体检</span><span>年终奖</span>
+                                <span>五险一金</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span>
                             </div>
                         </div>
                     <div class="info">
-                                青云
-                        <a href="/gongsir/4ab3384605cff0e11XJz2to~.html" target="_blank" class="link-more" ka="look-all-position">查看所有职位</a>
+                                东云睿连
+                        <a href="/gongsir/a3a21f018dde86e81Hx439i-Fw~~.html" target="_blank" class="link-more" ka="look-all-position">查看所有职位</a>
                     </div>
                 </div>
             </div>
@@ -239,21 +239,20 @@
                     <div class="sider-company">
                         <p class="title">公司基本信息</p>
                             <div class="company-info">
-                                <a ka="job-detail-company-logo_custompage" href="/gongsi/4ab3384605cff0e11XJz2to~.html" title="                                    青云
+                                <a ka="job-detail-company-logo_custompage" href="/gongsi/a3a21f018dde86e81Hx439i-Fw~~.html" title="                                    东云睿连
 " target="_blank">
-                                        <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180129/b51f459eb70544811885dee754b297a8e77c91c2418968c0db553ae5dcc7b91f.jpg?x-oss-process=image/resize,w_120,limit_0" alt=""/>
+                                        <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190423/49a8f16dce44b240dfe4ede541565574329f22eabbd318ea9c7208caf20c2f1a_s.jpg?x-oss-process=image/resize,w_120,limit_0" alt=""/>
                                 </a>
-                                <a ka="job-detail-company_custompage" href="/gongsir/4ab3384605cff0e11XJz2to~.html"  title="                                    青云
+                                <a ka="job-detail-company_custompage" href="/gongsir/a3a21f018dde86e81Hx439i-Fw~~.html"  title="                                    东云睿连
 招聘" target="_blank">
-                                                                        青云
+                                                                        东云睿连
 
                                 </a>
                             </div>
-                                 <p><i class="icon-stage"></i>D轮及以上</p>
-                                <p><i class="icon-scale"></i>100-499人</p>
-                                <p><i class="icon-industry"></i><a ka="job-detail-brandindustry" href="/i100015/">企业服务</a></p>
-                                <p><i class="icon-net"></i>http://www.qingcloud.com</p>
-                     <p class="gray">更新于：2019-07-26</p>
+                                 <p><i class="icon-stage"></i>不需要融资</p>
+                                <p><i class="icon-scale"></i>20-99人</p>
+                                <p><i class="icon-industry"></i><a ka="job-detail-brandindustry" href="/i100021/">计算机软件</a></p>
+                     <p class="gray">更新于：2019-07-11</p>
                 </div>
 
                     <div class="salary-miniapp">
@@ -266,69 +265,69 @@
                     <a class="btn" href="/activity/personality/index.html" target="_blank" ka="job-detail-personality">立即测试</a>
                 </div>
                     <div class="promotion-job">
-                        <h3><a href="/c101200100-p100101/e_105-y_5_6/" ka="more-similar-jobs2" class="more" target="_blank">更多相似职位</a>相似职位</h3>
+                        <h3><a href="/c101200100-p100102/e_105-y_4_5/" ka="more-similar-jobs2" class="more" target="_blank">更多相似职位</a>相似职位</h3>
                         <ul>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand1_custompage" href="/gongsi/23434173072db5a31Hdy2dq9.html" target="_blank" title="赛思软件">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180814/47386f2c1d6be268836e90e93f5eb9bfcfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand1_custompage" href="/gongsi/1c420688c083018c1nx409W5FQ~~.html" target="_blank" title="创想三维">
+                                                <img src="https://img.bosszhipin.com/beijin/images/imageb4ffc9560575453a4df975feadcea101-db101d679a987e8bAszRDW4-xNrpFQc7T7rBEg~~?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_1" href="/job_detail/9096f8c05c63c2571nJ70tW_GFo~.html" target="_blank">产品研发工程师 <span class="red">6-8K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob1_custompage" href="/gongsir/23434173072db5a31Hdy2dq9.html" target="_blank" title="赛思软件招聘">赛思软件</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_1" href="/job_detail/2f6c629e3c5eb97303Z43968GVY~.html" target="_blank">Linux C++服务器开发工程师 <span class="red">10-15K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob1_custompage" href="/gongsir/1c420688c083018c1nx409W5FQ~~.html" target="_blank" title="创想三维招聘">创想三维</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand2_custompage" href="/gongsi/7dc37dc3d5f7de1f1nZ92dy9Fg~~.html" target="_blank" title="惟实信">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20171201/e50aa1143c476fc21363e6a101ca93e7cfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand2_custompage" href="/gongsi/1f88fdf3e41f97221nN92t66.html" target="_blank" title="烽火通信">
+                                                <img src="https://img.bosszhipin.com/beijin/logo/f9f5081fbaf4efe9be77f6d1256eb696be1bd4a3bd2a63f070bdbdada9aad826.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_2" href="/job_detail/b70b2e54991a712f03R50t--EFY~.html" target="_blank">高级JAVA研发工程师 <span class="red">10-15K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob2_custompage" href="/gongsir/7dc37dc3d5f7de1f1nZ92dy9Fg~~.html" target="_blank" title="惟实信招聘">惟实信</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_2" href="/job_detail/e0ecea7db37af9981nFy29u-FVA~.html" target="_blank">软件工程师（WEB前端）HTML5方向 <span class="red">13-18K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob2_custompage" href="/gongsir/1f88fdf3e41f97221nN92t66.html" target="_blank" title="烽火通信招聘">烽火通信</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand3_custompage" href="/gongsi/45c701310d69c8731nBz3Ny0GQ~~.html" target="_blank" title="珞珈新空">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180627/9706960092094fdac81daaf0299f4403e354e1bd44ad1bffe04907ac5ed17222.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand3_custompage" href="/gongsi/9fbed997e41422bd1HB839Q~.html" target="_blank" title="诚迈科技">
+                                                <img src="https://img2.bosszhipin.com/mcs/chatphoto/20160318/7351203c47d4cb7a0653041a452f65bceaf4482eed10b5aac546c58ed1726bce.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_3" href="/job_detail/4e6c4e02b582cebb1Xx-09i0GVA~.html" target="_blank">C++研发工程师 <span class="red">7-14K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob3_custompage" href="/gongsir/45c701310d69c8731nBz3Ny0GQ~~.html" target="_blank" title="珞珈新空招聘">珞珈新空</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_3" href="/job_detail/02f21fa70dddd69c1Hx439W1EVo~.html" target="_blank">Linux驱动开发工程师 <span class="red">11-18K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob3_custompage" href="/gongsir/9fbed997e41422bd1HB839Q~.html" target="_blank" title="诚迈科技招聘">诚迈科技</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand4_custompage" href="/gongsi/166170f2b105afa903V90921Fg~~.html" target="_blank" title="煜炜光学">
-                                                <img src="https://img.bosszhipin.com/beijin/upload/tmp/20190505/2eca85c4e45b61b86c22144da51654d941b92acde451a664618ae62a9bdf1f3f.png?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand4_custompage" href="/gongsi/a29b77e8dfc91b2b1nB72dq1EA~~.html" target="_blank" title="TOWAYNET">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180124/fafa66bdf0e6f07d6078a7eb02ea8127089ca73be1cb27a9cf295e54b9755e49.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_4" href="/job_detail/15b1d1f60c61e6f103R92N-4FVY~.html" target="_blank">研发助理工程师 <span class="red">6-11K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob4_custompage" href="/gongsir/166170f2b105afa903V90921Fg~~.html" target="_blank" title="煜炜光学招聘">煜炜光学</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_4" href="/job_detail/9d5692742b2efcbf1XN_2tq-FFs~.html" target="_blank">云计算综合方案销售 <span class="red">4-6K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob4_custompage" href="/gongsir/a29b77e8dfc91b2b1nB72dq1EA~~.html" target="_blank" title="TOWAYNET招聘">TOWAYNET</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand5_custompage" href="/gongsi/97bcfb620bbaa1881XJ709s~.html" target="_blank" title="灯塔财经">
-                                                <img src="https://img2.bosszhipin.com/mcs/chatphoto/20160302/45ee91a8c08bf9e9df77efaebcfa6b961d31347309a25d4a6c423ee8199b59dd.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand5_custompage" href="/gongsi/0326cf84950c2bd61HJy2NW5GA~~.html" target="_blank" title="芯知软件">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190305/2108bf762cfa5fb577da0770a347872700c8cc8190198ce21a3b2f19f7f2387b_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_5" href="/job_detail/74028222e694ac361XJ-2N-1Fls~.html" target="_blank">Android研发工程师 <span class="red">11-20K·13薪</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob5_custompage" href="/gongsir/97bcfb620bbaa1881XJ709s~.html" target="_blank" title="灯塔财经招聘">灯塔财经</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_5" href="/job_detail/ae76c424285f976803d82N27EVo~.html" target="_blank">android  Linux内核开发 <span class="red">20-30K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob5_custompage" href="/gongsir/0326cf84950c2bd61HJy2NW5GA~~.html" target="_blank" title="芯知软件招聘">芯知软件</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                         </ul>
-                            <div class="view-more"><a href="/c101200100-p100101/e_105-y_5_6/" target="_blank" ka="more-similar-jobs3"><i class="more">更多相似职位</i></a></div>
+                            <div class="view-more"><a href="/c101200100-p100102/e_105-y_4_5/" target="_blank" ka="more-similar-jobs3"><i class="more">更多相似职位</i></a></div>
                     </div>
 
                 <div class="promotion-img">
-                    <a href="/app.html" ka="job-detail-app" target="_blank"><img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/pro-1.png" alt=""></a>
+                    <a href="/app.html" ka="job-detail-app" target="_blank"><img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/pro-1.png" alt=""></a>
                 </div>
             </div>
 
@@ -336,18 +335,18 @@
                 <div class="detail-op">
                     <div class="btns">
                         <div class="op-links">
-                            <a ka="job_detail_wechat_share" href="javascript:;" class="link-wechat-share" data-url="/boss/share/job.json?jobId=11a400b48860f91c1Xd52tm_E1s~&source=2">微信扫码分享</a>
+                            <a ka="job_detail_wechat_share" href="javascript:;" class="link-wechat-share" data-url="/boss/share/job.json?jobId=afbbc2081c296f4203d63dW5EVA~&source=2">微信扫码分享</a>
                             <a href="javascript:;" ka="job_detail_like" class="link-like "
-                               data-url="/geek/tag/jobtagupdate.json?jobId=11a400b48860f91c1Xd52tm_E1s~&expectId=&tag=4&lid=1CwjQEy0QWW.search">感兴趣</a>
+                               data-url="/geek/tag/jobtagupdate.json?jobId=afbbc2081c296f4203d63dW5EVA~&expectId=&tag=4&lid=">感兴趣</a>
                             <a ka="job_detail_report" href="javascript:;" class="link-report">举报</a>
                         </div>
                     </div>
 
                     <div class="detail-figure">
-                            <img src="https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                            <img src="https://img.bosszhipin.com/boss/avatar/avatar_1.png?x-oss-process=image/resize,w_100,limit_0" alt="" />
                     </div>
-                    <h2 class="name">刘女士<i class="icon-vip"></i></h2>
-                    <p class="gray">招聘者<em class="vdot">·</em>刚刚在线</p>
+                    <h2 class="name">鲁女士<i class="icon-vip"></i></h2>
+                    <p class="gray">总监<em class="vdot">·</em>刚刚在线</p>
                 </div>
                 <div class="detail-content">
                     <!--已关闭职位-->
@@ -355,15 +354,24 @@
                             <div class="job-sec">
                                 <h3>职位描述</h3>
                                 <div class="text">
-                                    工作职责<br/>负责青云面向企业用户的云计算管理平台的开发和维护，参与平台架构设计，合理集成公有云、私有云需求，实现平台各功能的灵活插拔<br/>职位要求<br/>Java 研发经验2年以上、熟悉 Spring，MyBatis 或类似框架<br/>有 PostgreSQL、MySQL 等数据库开发经验<br/>对缓存服务（Redis、MongoDB），消息服务（ActiveMQ、RabbitMQ）有开发经验<br/>熟悉 Linux 操作系统下的开发、部署，能根据服务器日志进行调试<br/>熟悉使用 maven/git 工具<br/>有云计算、资产管理、流程管理相关项目经验优先<br/>有 VMWare 开发或维护经验优先
+                                    职责描述：<br/>1.负责公司各产品后台中，虚拟化及云计算相关组件的设计与开发。<br/>2.负责系统服务或模块级别的软件架构和算法的设计与优化。<br/>3.与后台业务逻辑（Java/Scala服务）开发人员配合，实现软件后台各组件的功能对接。<br/>4.解决产品及环境中涉及虚拟化及云计算的各类问题，持续改进软件质量。<br/>5.参与软件工程相关文档资料的编写整理工作。<br/>任职要求：<br/>1.熟悉C/C++、Python和Shell语言，熟悉Linux内核及编程语言层面的常用的开发库。<br/>2.熟悉基于KVM或Xen的虚拟化技术，以及OpenStack的计算、网络、存储核心组件中的一个或多个，包括其上层编程方法与内部实现原理；开源贡献者优先。<br/>3.理解服务器端软件开发的全流程，具有基本的软件架构设计能力。<br/>4.熟悉C/C++、Python及Linux系统服务开发相关的工具链，了解软件工程规范和流程。<br/>5.具有较强的学习、理解和团队合作能力，乐于探索新技术、新方法，追求知识和能力的进步。<br/>6.在Linux系统服务开发或相关领域有2年以上工作经验者优先；熟悉云计算、大数据或人工智能领域知识者优先；熟悉CUDA、InfiniBand等异构和高性能计算技术者优先。<br/>7.大学本科或以上学历，能够熟练阅读理解英文材料。
                                 </div>
                             </div>
+                                <div class="job-sec">
+                                    <h3>团队介绍</h3>
+                                        <div class="job-tags">
+                                                <span>带薪年假</span>
+                                                <span>扁平管理</span>
+                                                <span>移动互联网</span>
+                                                <span>公司氛围好</span>
+                                        </div>
+                                </div>
                                 <div class="job-sec company-info">
                                     <h3>公司介绍</h3>
                                     <div class="text">
-                                        青云QingCloud是全球首家实现资源秒级响应并按秒计量的基础云服务商，致力于为企业用户提供安全可靠、性能卓越、按需、实时的 IT 资源交付平台。其产品包含完整的IaaS层组件、PaaS层服务及超融合硬件设备。<br/>在为逾80,000家企业提供云服务的同时, QingCloud面向中、大型政企用户提
+                                        东云睿连（武汉）计算技术有限公司是一家旨在打造下一代云计算尖端技术、核心系统及杀手锏应用的国际化高科技公司。东云睿连致力于让云计算迈进高效率、超性能及智能化时代。公司位于武汉东湖高新区光谷腹地。公司核心技术团队由来自海内外资深技术专家组成。公司的产品涉及云计算、大数据和人工智能领域的系统平台软件与应
                                     </div>
-                                    <a ka="job-comintroduce" href="/gongsi/4ab3384605cff0e11XJz2to~.html" target="_blank" class="look-all"><span>...</span>查看全部</a>
+                                    <a ka="job-comintroduce" href="/gongsi/a3a21f018dde86e81Hx439i-Fw~~.html" target="_blank" class="look-all"><span>...</span>查看全部</a>
                                 </div>
                             <div class="job-sec prop-item">
                                 <h3>竞争力分析</h3>
@@ -378,75 +386,75 @@
                                     </div>
                                     <div class="prop-detail">
                                         <div class="pull-right">加载中...</div>
-                                        <div>个人综合排名：<span>在<img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/pic-blur.png">人中排名第<img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/pic-blur.png"></span></div>
+                                        <div>个人综合排名：<span>在<img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/pic-blur.png">人中排名第<img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/pic-blur.png"></span></div>
                                     </div>
                                 </div>
                             </div>
                                 <div class="job-sec">
                                     <h3>工商信息</h3>
-                                    <div class="name">北京优帆科技有限公司武汉分公司</div>
+                                    <div class="name">东云睿连（武汉）计算技术有限公司</div>
                                     <div class="level-list">
-                                        <li><span>法人代表：</span>甘泉</li>
-                                        <li><span>注册资金：</span></li>
-                                        <li class="res-time"><span>成立时间：</span>2017-04-18</li>
-                                        <li class="company-type"><span>企业类型：</span>有限责任公司分公司(自然人投资或控股)</li>
+                                        <li><span>法人代表：</span>林健</li>
+                                        <li><span>注册资金：</span>100万元人民币</li>
+                                        <li class="res-time"><span>成立时间：</span>2019-02-19</li>
+                                        <li class="company-type"><span>企业类型：</span>有限责任公司（自然人投资或控股）</li>
                                         <li class="manage-state"><span>经营状态：</span>存续（在营、开业、在册）</li>
                                     </div>
-                                    <a ka="job-cominfo" href="/gongsi/4ab3384605cff0e11XJz2to~.html" target="_blank" class="look-all">查看全部</a>
+                                    <a ka="job-cominfo" href="/gongsi/a3a21f018dde86e81Hx439i-Fw~~.html" target="_blank" class="look-all">查看全部</a>
                                 </div>
                             <div class="job-sec">
                                 <h3>工作地址</h3>
                                 <div class="job-location">
-                                    <div class="location-address">武汉东湖高新区关山大道330号，保利国际中心25层</div>
-                                    <div class="job-location-map js-open-map" data-content="武汉东湖高新区关山大道330号，保利国际中心25层">
-                                        <img src="https://restapi.amap.com/v3/staticmap?size=652*174&markers=mid,0xFF0000,A:114.410466,30.491908&key=21b56a6cc83fad7668dbb0e9564759a7" alt="公司地址" />
+                                    <div class="location-address">武汉江夏区光谷汇金中心6A栋</div>
+                                    <div class="job-location-map js-open-map" data-content="武汉江夏区光谷汇金中心6A栋">
+                                        <img src="https://restapi.amap.com/v3/staticmap?size=652*174&markers=mid,0xFF0000,A:114.431699,30.453225&key=21b56a6cc83fad7668dbb0e9564759a7" alt="公司地址" />
                                         <p>点击查看地图</p>
                                     </div>
                                 </div>
                             </div>
                         <div class="job-recomend">
-                            <h3><a href="/c101200100-p100101/e_105-y_5_6/" ka="more-similar-jobs4" class="more" target="_blank">更多职位</a>看过该职位的人还看了</h3>
+                            <h3><a href="/c101200100-p100102/e_105-y_4_5/" ka="more-similar-jobs4" class="more" target="_blank">更多职位</a>看过该职位的人还看了</h3>
                             <ul>
                                     <li>
-                                        <a ka="job_sug_6" href="/job_detail/e0a3f25c258b5f941XF_2t-_GVc~.html" target="_blank">
+                                        <a ka="job_sug_6" href="/job_detail/41ae73462ec4315103d62Nu_FlY~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190530/3314218167ca3986a4d1e0e9b34a3c6e3cf8a474b65cedf20c1a79ee2c76d5f0_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://img.bosszhipin.com/beijin/logo/1704f78bd45ae06bb03952aaeb98c1bdbe1bd4a3bd2a63f070bdbdada9aad826.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>蛋白研发工程师</b></div>
-                                                <p class="red">5-8K</p >
+                                                <div class="name"><b>IT Senior Administrator- Linux</b></div>
+                                                <p class="red">15-20K</p >
                                                 <p class="gray">
-                                                        伯远生物<em class="vdot">·</em>
+                                                        捷信消费金融有限公司<em class="vdot">·</em>
                                                     武汉
                                                 </p>
                                             </div>
                                         </a>
                                     </li>
                                     <li>
-                                        <a ka="job_sug_7" href="/job_detail/01384b2ec325e18f1XJ_3tS-FFE~.html" target="_blank">
+                                        <a ka="job_sug_7" href="/job_detail/1f47b1496dd30d751Xx_3dW5FFM~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190710/61be42884c4da6853561a9762088256219fafdb1fe908dd0b581fc8b9d273215_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://img.bosszhipin.com/beijin/images/image0d4e8854a0dad45203d1f77428caa0e5-d0775d82e76b3842AurFAlQCDhIOlQ~~?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>非标机械研发工程师</b></div>
-                                                <p class="red">6-12K</p >
+                                                <div class="name"><b>网络编辑（电竞方向）</b></div>
+                                                <p class="red">4-8K</p >
                                                 <p class="gray">
-                                                        心浩智能<em class="vdot">·</em>
+                                                        武汉宏鹏职业培训学校<em class="vdot">·</em>
                                                     武汉
                                                 </p>
                                             </div>
                                         </a>
                                     </li>
                                     <li>
-                                        <a ka="job_sug_8" href="/job_detail/d28bf092d97a66b81HN_0t-1E1I~.html" target="_blank">
+                                        <a ka="job_sug_8" href="/job_detail/3f3cb91bf749d94e1HJ43Nq-FVo~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180712/35a0f8463bce1f93d44d8c04ca0525f1cfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20181009/92e954d6dfdfe3e4a826fc11908cf690cfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>云GIS平台研发工程师</b></div>
-                                                <p class="red">6-11K</p >
+                                                <div class="name"><b>LINUX驱动开发工程师</b></div>
+                                                <p class="red">15-25K</p >
                                                 <p class="gray">
-                                                        天耀宏图科技有限公司<em class="vdot">·</em>
+                                                        盛视科技<em class="vdot">·</em>
                                                     武汉
                                                 </p>
                                             </div>
@@ -458,7 +466,7 @@
                         <div class="search-form">
                             <form action="/job_detail/" method="get" target="_blank">
                                 <div class="search-form-con">
-                                    <p class="ipt-wrap"><input ka="search-job-query" name="query" type="text" class="ipt-search" autocomplete="off" placeholder="搜索职位、公司" value="Java"></p>
+                                    <p class="ipt-wrap"><input ka="search-job-query" name="query" type="text" class="ipt-search" autocomplete="off" placeholder="搜索职位、公司" value="C++"></p>
                                     <div class="city-sel" ka="search-select-city">
                                         <i class="line"></i>
                                         <span class="label-text cur"><b data-val="101200100">武汉</b><i class="icon-arrow-down"></i></span>
@@ -484,173 +492,164 @@
                              <div class="slider-main">
                                  <ul>
                                             <li class="cur">
-                                        <a ka="job_recommend_1" href="/job_detail/f989cadbe889862a1HF63ti_FFU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">平台架构师 <span class="red">25-30K</span></div>
-                                            <p>中移智行武汉分公司</p>
+                                        <a ka="job_recommend_1" href="/job_detail/3c7e2ba62abc15831Xd92Nq8FFI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">工程方向编辑(兼职) <span class="red">3-6K</span></div>
+                                            <p>圣才电子书</p>
                                         </a>
-                                        <a ka="job_recommend_2" href="/job_detail/18f14bee8f23a9061H1439-7EVo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">平台类产品研发负责人 <span class="red">30-60K</span></div>
-                                            <p>天云科技</p>
+                                        <a ka="job_recommend_2" href="/job_detail/63baa8334c99c1cc03V53t68FFo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Linux高级驱动工程师 <span class="red">12-20K</span></div>
+                                            <p>依迅北斗</p>
                                         </a>
-                                        <a ka="job_recommend_3" href="/job_detail/8505425dd429aebf1XFz39m0GVs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">c++软件研发工程师 <span class="red">8-16K</span></div>
-                                            <p>武汉众智鸿图科技...</p>
+                                        <a ka="job_recommend_3" href="/job_detail/149a7ea08d24832f1Hx-0966F1Y~.html" target="_blank" class="recommend-li">
+                                            <div class="name">产品经理（社会信用体系建设方向） <span class="red">12-20K</span></div>
+                                            <p>中诚信征信</p>
                                         </a>
-                                        <a ka="job_recommend_4" href="/job_detail/cf013a87347b3cbe1HN70t21FVQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">云平台C++开发工程师 <span class="red">13-26K</span></div>
-                                            <p>青云</p>
+                                        <a ka="job_recommend_4" href="/job_detail/c6d3afa3098caefe1H180tu8GVs~.html" target="_blank" class="recommend-li">
+                                            <div class="name">安卓系统工程师 <span class="red">10-15K</span></div>
+                                            <p>技德系统</p>
                                         </a>
-                                        <a ka="job_recommend_5" href="/job_detail/140773f1f7a75ddc1Hx43d-0EVY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">电源研发工程师 <span class="red">8-10K·14薪</span></div>
-                                            <p>武汉杭久电气有限公司</p>
-                                        </a>
-                                        <a ka="job_recommend_6" href="/job_detail/7aede56b702f4b121XN609S9Els~.html" target="_blank" class="recommend-li">
-                                            <div class="name">高级研发工程师 <span class="red">10-20K</span></div>
-                                            <p>触点互动</p>
-                                        </a>
-                                        <a ka="job_recommend_7" href="/job_detail/b5ac844b2cebd39b1Xxz09y0ElM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">研发工程师 <span class="red">6-8K</span></div>
-                                            <p>瑞法医疗</p>
-                                        </a>
-                                        <a ka="job_recommend_8" href="/job_detail/deb9c204e60d0a041HV82ti7EFs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">固废处理研发工程师 <span class="red">8-15K</span></div>
-                                            <p>天源环保</p>
-                                        </a>
-                                        <a ka="job_recommend_9" href="/job_detail/9438f389f61fa82d03V_2tW0E1E~.html" target="_blank" class="recommend-li">
-                                            <div class="name">研发工程师 <span class="red">6-9K</span></div>
-                                            <p>艾米森</p>
-                                        </a>
-                                        <a ka="job_recommend_10" href="/job_detail/d5f5609bcae85fdb03V72Nu6E1E~.html" target="_blank" class="recommend-li">
-                                            <div class="name">后端研发工程师 <span class="red">15-30K·15薪</span></div>
+                                        <a ka="job_recommend_5" href="/job_detail/c8b989f24398e02c1HZ43Nq9E1M~.html" target="_blank" class="recommend-li">
+                                            <div class="name">产品leader-薪酬管理系统方向 <span class="red">20-40K</span></div>
                                             <p>今日头条</p>
+                                        </a>
+                                        <a ka="job_recommend_6" href="/job_detail/e4b962cfc682e49903R429-_E1c~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Linux系统工程师-网络及通用技术方向 <span class="red">10-15K·15薪</span></div>
+                                            <p>东云睿连</p>
+                                        </a>
+                                        <a ka="job_recommend_7" href="/job_detail/09a24c57d55decde1XJy09W-FlA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">linux运维工程师 <span class="red">5-8K</span></div>
+                                            <p>武汉睿智视讯科技</p>
+                                        </a>
+                                        <a ka="job_recommend_8" href="/job_detail/76d3c5c162b5bd211HB_3tm-FVA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">系统工程师 <span class="red">10-12K</span></div>
+                                            <p>环达电子</p>
+                                        </a>
+                                        <a ka="job_recommend_9" href="/job_detail/569afdd96fa6322c03d939y8E1I~.html" target="_blank" class="recommend-li">
+                                            <div class="name">弱电系统工程师 <span class="red">4-9K</span></div>
+                                            <p>天杰科技</p>
+                                        </a>
+                                        <a ka="job_recommend_10" href="/job_detail/5b44d2e33933a5511XJ52d21Els~.html" target="_blank" class="recommend-li">
+                                            <div class="name">linux c 软件开发工程师 <span class="red">7-12K</span></div>
+                                            <p>瞬联软件科技</p>
                                         </a>
                                             </li>
                                             <li class="">
-                                        <a ka="job_recommend_11" href="/job_detail/91c15e738f37dd941Hd83965GFQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">大数据开发工程师（数据平台） <span class="red">15-30K</span></div>
-                                            <p>金山云</p>
+                                        <a ka="job_recommend_11" href="/job_detail/17c0b98ccc5b30251n1709u1EFY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">linux通信工程师 <span class="red">13-22K</span></div>
+                                            <p>华电顺承</p>
                                         </a>
-                                        <a ka="job_recommend_12" href="/job_detail/90d06d0c5e4659211HB53NS-ElY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">Unity研发工程师 <span class="red">10-15K</span></div>
-                                            <p>智线云科技</p>
+                                        <a ka="job_recommend_12" href="/job_detail/17b0b62b0b7f320a1HJ93d66ElY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">DTV软件工程师（网络方向） <span class="red">10-15K</span></div>
+                                            <p>鸿格科技</p>
                                         </a>
-                                        <a ka="job_recommend_13" href="/job_detail/99432b0f609d65741HR92dm_EVE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">qt研发工程师 <span class="red">10-15K</span></div>
-                                            <p>武汉精鸿</p>
+                                        <a ka="job_recommend_13" href="/job_detail/c8042a1ec380ed0203d82d-4E1E~.html" target="_blank" class="recommend-li">
+                                            <div class="name">产品经理（知识图谱方向） <span class="red">8-13K·13薪</span></div>
+                                            <p>数文科技</p>
                                         </a>
-                                        <a ka="job_recommend_14" href="/job_detail/db7055d31ac753581nN629--EVA~.html" target="_blank" class="recommend-li">
-                                            <div class="name">Python研发工程师 <span class="red">10-20K</span></div>
-                                            <p>绿盟科技</p>
+                                        <a ka="job_recommend_14" href="/job_detail/4c138eb65be118e51nZz2dW7GVM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">虚拟化高级开发工程师 <span class="red">14-20K</span></div>
+                                            <p>噢易云计算</p>
                                         </a>
-                                        <a ka="job_recommend_15" href="/job_detail/1bff406575aa21a71nJ-39i1EFI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">Java研发工程师（动态团队） <span class="red">8-15K</span></div>
-                                            <p>航班管家</p>
+                                        <a ka="job_recommend_15" href="/job_detail/33ca5dd04ec7cba91nx_3t67GVM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">系统工程师 <span class="red">8-15K</span></div>
+                                            <p>TOWAYNET</p>
                                         </a>
-                                        <a ka="job_recommend_16" href="/job_detail/6ea69a5a1cd08b2b1HB52NS0FlU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">探头研发工程师 <span class="red">11-20K</span></div>
-                                            <p>武汉联影医疗</p>
+                                        <a ka="job_recommend_16" href="/job_detail/5a6b4a1d305455a21nN929u9E1Y~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Linux系统工程师 <span class="red">10-20K</span></div>
+                                            <p>南斗六星</p>
                                         </a>
-                                        <a ka="job_recommend_17" href="/job_detail/4cb41cc2d4ac1d2b1Hx909S8E1I~.html" target="_blank" class="recommend-li">
-                                            <div class="name">React Native APP 研发工程师 <span class="red">12-15K</span></div>
-                                            <p>易游顶峰</p>
+                                        <a ka="job_recommend_17" href="/job_detail/6729529cf620e07603V82dy7GFE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">系统工程师 <span class="red">6-11K</span></div>
+                                            <p>英龙华通</p>
                                         </a>
-                                        <a ka="job_recommend_18" href="/job_detail/f7fa8c1eb3e07ebd1Hd80t2-EFs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">高级系统研发工程师 <span class="red">11-20K</span></div>
-                                            <p>易思捷</p>
+                                        <a ka="job_recommend_18" href="/job_detail/4afb5c8c55b2469e03Z63N66F1A~.html" target="_blank" class="recommend-li">
+                                            <div class="name">系统工程工程师 <span class="red">8-12K</span></div>
+                                            <p>浙江宇视科技</p>
                                         </a>
-                                        <a ka="job_recommend_19" href="/job_detail/adb0dc99e7c1605d1HFy2d66EFE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">JAVA开发工程师-客服研发 <span class="red">13-26K</span></div>
+                                        <a ka="job_recommend_19" href="/job_detail/29ec01ea856294c51HRy3tq6GVE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA开发工程师-数据仓库方向 <span class="red">13-26K</span></div>
                                             <p>小米</p>
                                         </a>
-                                        <a ka="job_recommend_20" href="/job_detail/dfb077bf42c8651b1XR92tS1EVE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">Python研发工程师 <span class="red">12-24K</span></div>
-                                            <p>武汉从心</p>
+                                        <a ka="job_recommend_20" href="/job_detail/ef07ea5ed2a3845a1HJ709-1F1I~.html" target="_blank" class="recommend-li">
+                                            <div class="name">产品经理（SAAS方向） <span class="red">10-15K</span></div>
+                                            <p>智创工场</p>
                                         </a>
                                             </li>
                                             <li class="">
-                                        <a ka="job_recommend_21" href="/job_detail/f00dc583416dea681HZ52NW1ElM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">嵌入式研发工程师 <span class="red">12-20K</span></div>
-                                            <p>芯来科技</p>
+                                        <a ka="job_recommend_21" href="/job_detail/87cf2d737bfebbdf1HZz0925F1A~.html" target="_blank" class="recommend-li">
+                                            <div class="name">云计算工程师 <span class="red">10-15K</span></div>
+                                            <p>兴图新科</p>
                                         </a>
-                                        <a ka="job_recommend_22" href="/job_detail/4732d7a5761c83af1HBz3Nq8FVM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">GIS研发工程师 <span class="red">6-10K</span></div>
-                                            <p>省工程咨询</p>
+                                        <a ka="job_recommend_22" href="/job_detail/f2dd35a1f2ee897c03d629y5FFI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级业务运维工程师（配管方向） <span class="red">15-25K·15薪</span></div>
+                                            <p>斗鱼</p>
                                         </a>
-                                        <a ka="job_recommend_23" href="/job_detail/3c721a3c62340d131HV63dm1FlU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">C++/C#研发工程师 <span class="red">12-24K</span></div>
-                                            <p>航天宏图</p>
+                                        <a ka="job_recommend_23" href="/job_detail/11ce3700aee311fd0HV-3Ny_FA~~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Linux C/C++应用开发工 <span class="red">12-20K</span></div>
+                                            <p>武汉卡比特</p>
                                         </a>
-                                        <a ka="job_recommend_24" href="/job_detail/ee82f11e7dc2942103d62N-4FlE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">Linux C研发工程师（中级） <span class="red">11-18K</span></div>
-                                            <p>武钢众鹏</p>
+                                        <a ka="job_recommend_24" href="/job_detail/bc364bb50634f4a01nx-2N66FlQ~.html" target="_blank" class="recommend-li">
+                                            <div class="name">电力系统工程师 <span class="red">10-15K</span></div>
+                                            <p>中元华电</p>
                                         </a>
-                                        <a ka="job_recommend_25" href="/job_detail/263003550e6bf6721nV83dq1ElE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">C#研发工程师/WinForm <span class="red">10-15K</span></div>
-                                            <p>金贵创新</p>
+                                        <a ka="job_recommend_25" href="/job_detail/fa0b496b687d1b9203Ry0ty6EVs~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Linux运维工程师 <span class="red">5-10K</span></div>
+                                            <p>厦门方根科技有限公司</p>
                                         </a>
-                                        <a ka="job_recommend_26" href="/job_detail/1f4b9bdde2e0a2e71HZz09W4GFM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">后端研发工程师 <span class="red">14-28K</span></div>
-                                            <p>今日头条</p>
+                                        <a ka="job_recommend_26" href="/job_detail/cdcf2536a0e789f31Hx409m-GVA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级系统工程师 <span class="red">10-15K</span></div>
+                                            <p>武汉索雅</p>
                                         </a>
-                                        <a ka="job_recommend_27" href="/job_detail/5b75143ac55475431HZz2ty_FVU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">语义平台工程师 <span class="red">22-28K</span></div>
-                                            <p>Hisense</p>
+                                        <a ka="job_recommend_27" href="/job_detail/d8d9ae4916947d8903V63Ni4F1Y~.html" target="_blank" class="recommend-li">
+                                            <div class="name">虚拟化工程师 <span class="red">6-10K·14薪</span></div>
+                                            <p>元鼎创天</p>
                                         </a>
-                                        <a ka="job_recommend_28" href="/job_detail/fdb20d252a6f1c641XV43ty6FlQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">后端研发工程师（武汉） <span class="red">17-34K</span></div>
-                                            <p>今日头条</p>
+                                        <a ka="job_recommend_28" href="/job_detail/93bf8ce40fc1a0ee1XR93dq9GVo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Linux运维工程师 <span class="red">6-10K</span></div>
+                                            <p>创信博达</p>
                                         </a>
-                                        <a ka="job_recommend_29" href="/job_detail/ea424527459c55fb1X1z3Nq8EVU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">资深Java研发工程师 <span class="red">25-40K</span></div>
-                                            <p>灯塔财经</p>
+                                        <a ka="job_recommend_29" href="/job_detail/312d3d199dbddabb1Hx63dW5GVA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">监护软件系统工程师 <span class="red">15-20K</span></div>
+                                            <p>武汉联影医疗</p>
                                         </a>
-                                        <a ka="job_recommend_30" href="/job_detail/a7ac5b858157b51e1HB92tW-GFQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">C++ 高级三维图形研发工程师 <span class="red">10-15K</span></div>
-                                            <p>武汉天际航</p>
+                                        <a ka="job_recommend_30" href="/job_detail/386436f6273b76f21nBz3tS7FVU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">系统工程师 <span class="red">4-9K</span></div>
+                                            <p>新中新工程技术</p>
                                         </a>
                                             </li>
                                             <li class="">
-                                        <a ka="job_recommend_31" href="/job_detail/f23e36fd0deca09603R439y6GVA~.html" target="_blank" class="recommend-li">
-                                            <div class="name">程序研发工程师 <span class="red">10-15K</span></div>
-                                            <p>摩兜公寓</p>
+                                        <a ka="job_recommend_31" href="/job_detail/b8947511e6ce331803Zz39y1FFY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">云计算工程师 <span class="red">13-26K</span></div>
+                                            <p>华为技术有限公司</p>
                                         </a>
-                                        <a ka="job_recommend_32" href="/job_detail/8095ccfe9767fa0e1Xx83tm9EFo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">AI研发工程师 <span class="red">15-25K</span></div>
-                                            <p>武汉乐易</p>
+                                        <a ka="job_recommend_32" href="/job_detail/68bae6bc004d1da11XNy0tu1EVU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">产品经理（营销方向） <span class="red">10-20K</span></div>
+                                            <p>车边</p>
                                         </a>
-                                        <a ka="job_recommend_33" href="/job_detail/aa2367db8031a5681XFz3N28ElE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">研发工程师 <span class="red">10-18K</span></div>
-                                            <p>构力</p>
+                                        <a ka="job_recommend_33" href="/job_detail/6b061ddf8fd8a8c01HBy0tq0Flc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">linux驱动开发工程师 <span class="red">10-15K</span></div>
+                                            <p>中元华电</p>
                                         </a>
-                                        <a ka="job_recommend_34" href="/job_detail/2c4271d19d060fdb03V-2Ny-FVY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">大数据平台运维工程师 <span class="red">12-20K·14薪</span></div>
-                                            <p>中证征信</p>
+                                        <a ka="job_recommend_34" href="/job_detail/3a5bc3acd5d255511HJ829-_FFc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">机器人系统工程师 <span class="red">25-40K</span></div>
+                                            <p>武汉联影医疗</p>
                                         </a>
-                                        <a ka="job_recommend_35" href="/job_detail/d12b2d3d968069f51HFy2dq8FlY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">高级软件研发工程师（包括java,前端，移动） <span class="red">10-15K</span></div>
-                                            <p>亿信华辰</p>
+                                        <a ka="job_recommend_35" href="/job_detail/e0a5d4d0dd84fee81HJ72tS7FFM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">爬虫方向-项目经理 <span class="red">10-15K</span></div>
+                                            <p>智线云科技</p>
                                         </a>
-                                        <a ka="job_recommend_36" href="/job_detail/fdb0a0bb4024c36003R_29q6EVo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">区块链研发工程师 <span class="red">8-10K</span></div>
-                                            <p>头等舱股份</p>
+                                        <a ka="job_recommend_36" href="/job_detail/9987b7b1549091dd03d_3N67FlU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">解决方案工程师（云计算方向） <span class="red">10-15K</span></div>
+                                            <p>中国航天科工</p>
                                         </a>
-                                        <a ka="job_recommend_37" href="/job_detail/0eef74017bf63c9f1XZ-39u8EFc~.html" target="_blank" class="recommend-li">
-                                            <div class="name">研发工程师 <span class="red">7-14K</span></div>
-                                            <p>橄榄山软件</p>
+                                        <a ka="job_recommend_37" href="/job_detail/fc9389aaf1549ce203R93969E1Y~.html" target="_blank" class="recommend-li">
+                                            <div class="name">嵌入式软件开发(Linux C/C++） <span class="red">10-15K</span></div>
+                                            <p>软通动力信息技术集团</p>
                                         </a>
-                                        <a ka="job_recommend_38" href="/job_detail/b8b04fe1a7c346d81XZ529u0F1M~.html" target="_blank" class="recommend-li">
-                                            <div class="name">通信研发工程师 <span class="red">10-15K</span></div>
-                                            <p>恒为</p>
+                                        <a ka="job_recommend_38" href="/job_detail/2056424a98ef47d903R72tW9GVY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">装饰设计师（公装方向） <span class="red">10-15K·14薪</span></div>
+                                            <p>九州通</p>
                                         </a>
-                                        <a ka="job_recommend_39" href="/job_detail/f9e1a24038d0e8861HVy2d2_GVI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">研发工程师 <span class="red">3-4K</span></div>
-                                            <p>湖北战友集团</p>
-                                        </a>
-                                        <a ka="job_recommend_40" href="/job_detail/da49866ec900a6ff1Hdz3du6GFs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">终端及模组研发硬件工程师 <span class="red">15-30K</span></div>
-                                            <p>航天行云</p>
-                                        </a>
-                                            </li>
                                  </ul>
                              </div>
                          </div>
@@ -659,101 +658,101 @@
         <dl class="links-item">
         <dt>推荐公司：</dt>
         <dd>
-                        <a href="/gongsi/a2fa88b6ebeec1dc1XJz2N0~.html" target="_blank" ka="seo-brand-1">财乐港</a>
-                        <a href="/gongsi/ab3ee2ec5442569e1XJz39g~.html" target="_blank" ka="seo-brand-2">易维科技</a>
-                        <a href="/gongsi/d8bc8060bd92be761XJz2do~.html" target="_blank" ka="seo-brand-3">太原汇聚</a>
-                        <a href="/gongsi/d1531d59617cd8381XJz2dw~.html" target="_blank" ka="seo-brand-4">客路旅行</a>
-                        <a href="/gongsi/d6faaa0e86e20ae91XJz39k~.html" target="_blank" ka="seo-brand-5">北京精锐教育</a>
-                        <a href="/gongsi/25a67156271643561XJz2dg~.html" target="_blank" ka="seo-brand-6">圈动科技</a>
-                        <a href="/gongsi/c6eb67cbc48199861XJz2d4~.html" target="_blank" ka="seo-brand-7">顶金贵金属</a>
-                        <a href="/gongsi/5545705421c683331XJz2dQ~.html" target="_blank" ka="seo-brand-8">CESTBON</a>
-                        <a href="/gongsi/af82e78fa23c151e1XJz2d8~.html" target="_blank" ka="seo-brand-9">杭州佑展</a>
-                        <a href="/gongsi/c256a8d79a339aed1XJz2tQ~.html" target="_blank" ka="seo-brand-10">缳亚医学咨询</a>
-                        <a href="/gongsi/l1282326.html" target="_blank" ka="seo-brand-11">北京联科斯凯物流软件有限公司</a>
-                        <a href="/gongsi/l1821545.html" target="_blank" ka="seo-brand-12">克拉玛依市盛威机械设备有限公司</a>
-                        <a href="/gongsi/l11112391.html" target="_blank" ka="seo-brand-13">安阳市如易不动产经纪有限责任公司文峰分公司</a>
-                        <a href="/gongsi/l1977317.html" target="_blank" ka="seo-brand-14">平和县友阳农副产品有限公司</a>
-                        <a href="/gongsi/l1718192.html" target="_blank" ka="seo-brand-15">凉山州和信网络科技有限责任公司</a>
-                        <a href="/gongsi/l11047698.html" target="_blank" ka="seo-brand-16">高陵县天睿通讯服务部</a>
-                        <a href="/gongsi/l1978105.html" target="_blank" ka="seo-brand-17">芜湖红华房地产有限公司</a>
-                        <a href="/gongsi/l1836556.html" target="_blank" ka="seo-brand-18">成都斯明特网络科技有限公司</a>
-                        <a href="/gongsi/l1788651.html" target="_blank" ka="seo-brand-19">尚志市亚布力林业局松柏绿化苗圃</a>
-                        <a href="/gongsi/l1664352.html" target="_blank" ka="seo-brand-20">江门市飞羽科技有限公司</a>
-                        <a href="/gongsi/l1353383.html" target="_blank" ka="seo-brand-21">德持建设集团有限公司苏州分公司</a>
-                        <a href="/gongsi/l11051727.html" target="_blank" ka="seo-brand-22">广州市联日化工有限公司</a>
-                        <a href="/gongsi/l1883042.html" target="_blank" ka="seo-brand-23">深圳道尔顿净水科技有限公司</a>
-                        <a href="/gongsi/l1437804.html" target="_blank" ka="seo-brand-24">贵州渝黔世家装饰有限公司</a>
-                        <a href="/gongsi/l1345295.html" target="_blank" ka="seo-brand-25">光大联合国际工程建设有限责任公司</a>
-                        <a href="/gongsi/l1263610.html" target="_blank" ka="seo-brand-26">合肥市凯莱农业科技有限责任公司</a>
-                        <a href="/gongsi/l1975032.html" target="_blank" ka="seo-brand-27">蒲城县平路庙常乐村碧水湾温泉度假村</a>
-                        <a href="/gongsi/l1915020.html" target="_blank" ka="seo-brand-28">黄山市徽州华龙置业有限公司粤华龙井项目部</a>
-                        <a href="/gongsi/l11189094.html" target="_blank" ka="seo-brand-29">无锡市阿特兹装备有限公司</a>
-                        <a href="/gongsi/l1767948.html" target="_blank" ka="seo-brand-30">东营区水芙蓉美容院</a>
+                        <a href="/gongsi/a216bf43215800d51Hx439i4EA~~.html" target="_blank" ka="seo-brand-1">旬阳老凤祥</a>
+                        <a href="/gongsi/43fd4319fb6ea53b1Hx439i5Eg~~.html" target="_blank" ka="seo-brand-2">蔚来教育</a>
+                        <a href="/gongsi/l1268949.html" target="_blank" ka="seo-brand-3">武汉市江汉区卡西姆西屋小吃店</a>
+                        <a href="/gongsi/l11049646.html" target="_blank" ka="seo-brand-4">武汉小宝互联科技有限公司</a>
+                        <a href="/gongsi/l1649603.html" target="_blank" ka="seo-brand-5">深圳市国信企信息咨询有限公司</a>
+                        <a href="/gongsi/l1385208.html" target="_blank" ka="seo-brand-6">新余万兴百盛咨询管理合伙企业</a>
+                        <a href="/gongsi/l1110693.html" target="_blank" ka="seo-brand-7">郑州持盈实业有限公司</a>
+                        <a href="/gongsi/l1369706.html" target="_blank" ka="seo-brand-8">成都锦泰物业管理有限公司</a>
+                        <a href="/gongsi/l1813285.html" target="_blank" ka="seo-brand-9">昱旸天地农业科技有限公司</a>
+                        <a href="/gongsi/l1486692.html" target="_blank" ka="seo-brand-10">迪锋商务咨询有限公司广州分公司</a>
+                        <a href="/gongsi/l1285253.html" target="_blank" ka="seo-brand-11">四川祥泰恒贸易有限公司</a>
+                        <a href="/gongsi/l1254064.html" target="_blank" ka="seo-brand-12">北京久园房地产经纪咨询有限公司</a>
+                        <a href="/gongsi/l1593091.html" target="_blank" ka="seo-brand-13">湖南梅尼超市股份有限公司张家界阳湖坪店</a>
+                        <a href="/gongsi/l1378050.html" target="_blank" ka="seo-brand-14">石家庄朝羽文化传播有限公司</a>
+                        <a href="/gongsi/l1790565.html" target="_blank" ka="seo-brand-15">上海益宜因私出入境服务有限公司</a>
+                        <a href="/gongsi/l1973561.html" target="_blank" ka="seo-brand-16">上海康扬有害生物防治有限公司</a>
+                        <a href="/gongsi/l1506335.html" target="_blank" ka="seo-brand-17">青岛圣诺通机械设备有限公司</a>
+                        <a href="/gongsi/l1171466.html" target="_blank" ka="seo-brand-18">深圳市金广进实业有限公司</a>
+                        <a href="/gongsi/l1382174.html" target="_blank" ka="seo-brand-19">大同煤业国际贸易有限责任公司</a>
+                        <a href="/gongsi/l1539979.html" target="_blank" ka="seo-brand-20">江苏长江广告有限公司</a>
+                        <a href="/gongsi/l1913588.html" target="_blank" ka="seo-brand-21">马鞍山锦立源商贸有限公司</a>
+                        <a href="/gongsi/l1321638.html" target="_blank" ka="seo-brand-22">广州市长勉企业管理咨询有限公司</a>
+                        <a href="/gongsi/l111903.html" target="_blank" ka="seo-brand-23">南京新世纪联盟数码科技有限公司</a>
+                        <a href="/gongsi/l1725699.html" target="_blank" ka="seo-brand-24">郓城县郓州进出口贸易有限公司</a>
+                        <a href="/gongsi/l1418507.html" target="_blank" ka="seo-brand-25">苏州市吴江金家坝恒安药房有限公司</a>
+                        <a href="/gongsi/l1141804.html" target="_blank" ka="seo-brand-26">深圳市耀泰威科技有限公司</a>
+                        <a href="/gongsi/l1271643.html" target="_blank" ka="seo-brand-27">合肥尚联商业经营管理有限公司</a>
+                        <a href="/gongsi/l11163623.html" target="_blank" ka="seo-brand-28">新疆暖易通节能科技有限公司</a>
+                        <a href="/gongsi/l1462869.html" target="_blank" ka="seo-brand-29">美鑫投资有限公司</a>
+                        <a href="/gongsi/l1168161.html" target="_blank" ka="seo-brand-30">深圳市顺意科技文化发展有限公司</a>
         </dd>
     </dl>
     <dl class="links-item">
         <dt>城市招聘：</dt>
         <dd>
-                     <a href="/c101120900/" target="_blank" ka="seo-city-1">临沂招聘</a>
-                     <a href="/c101210800/" target="_blank" ka="seo-city-2">丽水招聘</a>
-                     <a href="/c101210500/" target="_blank" ka="seo-city-3">绍兴招聘</a>
-                     <a href="/c101250800/" target="_blank" ka="seo-city-4">娄底招聘</a>
-                     <a href="/c101110700/" target="_blank" ka="seo-city-5">安康招聘</a>
-                     <a href="/c101300800/" target="_blank" ka="seo-city-6">贵港招聘</a>
-                     <a href="/c101190700/" target="_blank" ka="seo-city-7">盐城招聘</a>
-                     <a href="/c101300500/" target="_blank" ka="seo-city-8">桂林招聘</a>
-                     <a href="/c101110600/" target="_blank" ka="seo-city-9">商洛招聘</a>
-                     <a href="/c101272100/" target="_blank" ka="seo-city-10">甘孜招聘</a>
-                     <a href="/c101271200/" target="_blank" ka="seo-city-11">内江招聘</a>
-                     <a href="/c101110500/" target="_blank" ka="seo-city-12">渭南招聘</a>
-                     <a href="/c101170100/" target="_blank" ka="seo-city-13">银川招聘</a>
-                     <a href="/c101160500/" target="_blank" ka="seo-city-14">武威招聘</a>
-                     <a href="/c101270400/" target="_blank" ka="seo-city-15">绵阳招聘</a>
-                     <a href="/c101080400/" target="_blank" ka="seo-city-16">通辽招聘</a>
-                     <a href="/c101101100/" target="_blank" ka="seo-city-17">吕梁招聘</a>
-                     <a href="/c101300600/" target="_blank" ka="seo-city-18">梧州招聘</a>
-                     <a href="/c101250700/" target="_blank" ka="seo-city-19">益阳招聘</a>
-                     <a href="/c101291500/" target="_blank" ka="seo-city-20">迪庆招聘</a>
+                     <a href="/c101200900/" target="_blank" ka="seo-city-1">宜昌招聘</a>
+                     <a href="/c101131400/" target="_blank" ka="seo-city-2">塔城招聘</a>
+                     <a href="/c101081000/" target="_blank" ka="seo-city-3">锡林郭勒招聘</a>
+                     <a href="/c101060500/" target="_blank" ka="seo-city-4">白城招聘</a>
+                     <a href="/c101310500/" target="_blank" ka="seo-city-5">五指山招聘</a>
+                     <a href="/c101131700/" target="_blank" ka="seo-city-6">阿拉尔招聘</a>
+                     <a href="/c101291200/" target="_blank" ka="seo-city-7">红河招聘</a>
+                     <a href="/c101240900/" target="_blank" ka="seo-city-8">萍乡招聘</a>
+                     <a href="/c101311800/" target="_blank" ka="seo-city-9">保亭招聘</a>
+                     <a href="/c101240300/" target="_blank" ka="seo-city-10">上饶招聘</a>
+                     <a href="/c101180600/" target="_blank" ka="seo-city-11">信阳招聘</a>
+                     <a href="/c101100700/" target="_blank" ka="seo-city-12">临汾招聘</a>
+                     <a href="/c101200500/" target="_blank" ka="seo-city-13">黄冈招聘</a>
+                     <a href="/c101060100/" target="_blank" ka="seo-city-14">长春招聘</a>
+                     <a href="/c101220400/" target="_blank" ka="seo-city-15">淮南招聘</a>
+                     <a href="/c101160300/" target="_blank" ka="seo-city-16">平凉招聘</a>
+                     <a href="/c101210900/" target="_blank" ka="seo-city-17">金华招聘</a>
+                     <a href="/c101181600/" target="_blank" ka="seo-city-18">驻马店招聘</a>
+                     <a href="/c101281100/" target="_blank" ka="seo-city-19">江门招聘</a>
+                     <a href="/c101190600/" target="_blank" ka="seo-city-20">扬州招聘</a>
         </dd>
     </dl>
     <dl class="links-item">
         <dt>热门职位：</dt>
         <dd>
-                    <a href="/p100202/" target="_blank" ka="seo-position-1">Android招聘</a>
-                    <a href="/p101018/" target="_blank" ka="seo-position-2">光网络工程师招聘</a>
-                    <a href="/p100304/" target="_blank" ka="seo-position-3">性能测试招聘</a>
-                    <a href="/p100206/" target="_blank" ka="seo-position-4">Flash招聘</a>
-                    <a href="/p100309/" target="_blank" ka="seo-position-5">软件测试招聘</a>
-                    <a href="/p100207/" target="_blank" ka="seo-position-6">html5招聘</a>
-                    <a href="/p100109/" target="_blank" ka="seo-position-7">Python招聘</a>
-                    <a href="/p100816/" target="_blank" ka="seo-position-8">射频工程师招聘</a>
-                    <a href="/p101404/" target="_blank" ka="seo-position-9">电气设计工程师招聘</a>
-                    <a href="/p100122/" target="_blank" ka="seo-position-10">数据采集招聘</a>
-                    <a href="/p101307/" target="_blank" ka="seo-position-11">算法研究员招聘</a>
-                    <a href="/p101017/" target="_blank" ka="seo-position-12">光传输工程师招聘</a>
-                    <a href="/p100803/" target="_blank" ka="seo-position-13">自动化招聘</a>
-                    <a href="/p101006/" target="_blank" ka="seo-position-14">电信交换工程师招聘</a>
-                    <a href="/p100409/" target="_blank" ka="seo-position-15">DBA招聘</a>
-                    <a href="/p100602/" target="_blank" ka="seo-position-16">项目主管招聘</a>
-                    <a href="/p100901/" target="_blank" ka="seo-position-17">web前端招聘</a>
-                    <a href="/p100306/" target="_blank" ka="seo-position-18">移动端测试招聘</a>
-                    <a href="/p100904/" target="_blank" ka="seo-position-19">HTML5招聘</a>
-                    <a href="/p100110/" target="_blank" ka="seo-position-20">Delphi招聘</a>
-                    <a href="/p100809/" target="_blank" ka="seo-position-21">DSP开发招聘</a>
-                    <a href="/p100512/" target="_blank" ka="seo-position-22">数据架构师招聘</a>
-                    <a href="/p100804/" target="_blank" ka="seo-position-23">单片机招聘</a>
-                    <a href="/p100513/" target="_blank" ka="seo-position-24">算法研究员招聘</a>
-                    <a href="/p100403/" target="_blank" ka="seo-position-25">网络工程师招聘</a>
-                    <a href="/p101101/" target="_blank" ka="seo-position-26">其他技术职位招聘</a>
-                    <a href="/p100815/" target="_blank" ka="seo-position-27">精益工程师招聘</a>
-                    <a href="/p100801/" target="_blank" ka="seo-position-28">硬件招聘</a>
-                    <a href="/p100112/" target="_blank" ka="seo-position-29">Perl招聘</a>
-                    <a href="/p100407/" target="_blank" ka="seo-position-30">网络安全招聘</a>
+                    <a href="/p100402/" target="_blank" ka="seo-position-1">运维开发工程师招聘</a>
+                    <a href="/p100808/" target="_blank" ka="seo-position-2">FPGA开发招聘</a>
+                    <a href="/p100307/" target="_blank" ka="seo-position-3">游戏测试招聘</a>
+                    <a href="/p100702/" target="_blank" ka="seo-position-4">技术总监招聘</a>
+                    <a href="/p100104/" target="_blank" ka="seo-position-5">数据挖掘招聘</a>
+                    <a href="/p100299/" target="_blank" ka="seo-position-6">移动开发招聘</a>
+                    <a href="/p100404/" target="_blank" ka="seo-position-7">系统工程师招聘</a>
+                    <a href="/p100102/" target="_blank" ka="seo-position-8">C++招聘</a>
+                    <a href="/p100599/" target="_blank" ka="seo-position-9">数据招聘</a>
+                    <a href="/p100201/" target="_blank" ka="seo-position-10">HTML5招聘</a>
+                    <a href="/p101403/" target="_blank" ka="seo-position-11">FAE招聘</a>
+                    <a href="/p100904/" target="_blank" ka="seo-position-12">HTML5招聘</a>
+                    <a href="/p100112/" target="_blank" ka="seo-position-13">Perl招聘</a>
+                    <a href="/p101009/" target="_blank" ka="seo-position-14">通信电源工程师招聘</a>
+                    <a href="/p100903/" target="_blank" ka="seo-position-15">Flash招聘</a>
+                    <a href="/p100405/" target="_blank" ka="seo-position-16">IT技术支持招聘</a>
+                    <a href="/p100122/" target="_blank" ka="seo-position-17">数据采集招聘</a>
+                    <a href="/p101202/" target="_blank" ka="seo-position-18">售后工程师招聘</a>
+                    <a href="/p100116/" target="_blank" ka="seo-position-19">Golang招聘</a>
+                    <a href="/p100305/" target="_blank" ka="seo-position-20">测试开发招聘</a>
+                    <a href="/p100803/" target="_blank" ka="seo-position-21">自动化招聘</a>
+                    <a href="/p100704/" target="_blank" ka="seo-position-22">架构师招聘</a>
+                    <a href="/p100118/" target="_blank" ka="seo-position-23">推荐算法招聘</a>
+                    <a href="/p101006/" target="_blank" ka="seo-position-24">电信交换工程师招聘</a>
+                    <a href="/p100303/" target="_blank" ka="seo-position-25">功能测试招聘</a>
+                    <a href="/p100119/" target="_blank" ka="seo-position-26">Erlang招聘</a>
+                    <a href="/p101304/" target="_blank" ka="seo-position-27">图像处理招聘</a>
+                    <a href="/p100205/" target="_blank" ka="seo-position-28">移动web前端招聘</a>
+                    <a href="/p100407/" target="_blank" ka="seo-position-29">网络安全招聘</a>
+                    <a href="/p101401/" target="_blank" ka="seo-position-30">电子工程师招聘</a>
         </dd>
     </dl>
     <label><span>展开</span><i class="fz fz-slidedown"></i></label>
 </div>                    <div class="pos-bread">
-                        <a href="/" ka="job-breadcrumb-bottom1">首页</a><i class="icon-arrow-right"></i><a href="/c101200100/" ka="job-breadcrumb-bottom2">武汉招聘</a>·<a href="/p100101/" ka="job-breadcrumb-bottom21">Java招聘</a><i class="icon-arrow-right"></i><a href="/c101200100-p100101/" ka="job-breadcrumb-bottom3">武汉Java招聘</a><i class="icon-arrow-right"></i><a href="/job_detail/11a400b48860f91c1Xd52tm_E1s~.html" ka="job-breadcrumb-bottom4">青云Java招聘</a>
+                        <a href="/" ka="job-breadcrumb-bottom1">首页</a><i class="icon-arrow-right"></i><a href="/c101200100/" ka="job-breadcrumb-bottom2">武汉招聘</a>·<a href="/p100102/" ka="job-breadcrumb-bottom21">C++招聘</a><i class="icon-arrow-right"></i><a href="/c101200100-p100102/" ka="job-breadcrumb-bottom3">武汉C++招聘</a><i class="icon-arrow-right"></i><a href="/job_detail/afbbc2081c296f4203d63dW5EVA~.html" ka="job-breadcrumb-bottom4">东云睿连C++招聘</a>
                     </div>
                 </div>
             </div>
@@ -1217,14 +1216,14 @@
     </div>
     <div class="sign-content">
         <div class="inner-box">
-            <input type="hidden" class="scene" value="d571db5a2deb48b598d12f31a00f2507"/>
+            <input type="hidden" class="scene" value="b216fd61f00d4b9eafcffa5cc1da25df"/>
             <h4>微信快速注册</h4>
             <div class="qrcodeimg-box">
                 <div class="invalid-box">
                     <p>请重新刷新二维码</p>
                     <button class="btn">点击刷新</button>
                 </div>
-                <img src="" data-url="https://www.zhipin.com/qrscan/dispatcher?qrId=d571db5a2deb48b598d12f31a00f2507">
+                <img src="" data-url="https://www.zhipin.com/qrscan/dispatcher?qrId=b216fd61f00d4b9eafcffa5cc1da25df">
             </div>
             <p class="sign-tip">请用微信“扫一扫”扫描上方二维码<br/>进入快捷注册</p>
             <div class="text-tip">已有账号 <a href="javascript:;" class="link-signin">立即登录</a></div>
@@ -1238,7 +1237,7 @@
 <!--扫码小程序注册成功-->
 <div class="sign-form sign-succ">
     <h3 class="title">注册BOSS直聘</h3>
-    <img class="img-succ" src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/success.png"/>
+    <img class="img-succ" src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/success.png"/>
     <p>注册成功，即将跳转完善流程</p>
     <div class="btn-switch phone-switch"></div>
 </div>
@@ -1265,7 +1264,7 @@
         <li><span class="text">我是谁谁谁我是谁谁谁</span></li>
     </ul>
     <div class="avatar">
-            <img src="https://img.bosszhipin.com/beijin/mcs/banner/20171031/84ade9701fd02a77fedb6675600a134f33d208e8d6fc287973c46e5cb5346f06.png?x-oss-process=image/resize,w_100,limit_0" />
+            <img src="https://img.bosszhipin.com/boss/avatar/avatar_1.png?x-oss-process=image/resize,w_100,limit_0" />
     </div>
 </div>
 <div class="container-tip">
@@ -1278,21 +1277,21 @@
     <div class="tip-bot"><a href="javascript:;" class="close"></a></div>
 </div>
 <div class="aladingtip">
-    <img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/tip.png">
+    <img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/tip.png">
 </div>
 </div>
 <!--简历预览-->
 <div id="pop-resume">
     <!--关闭按钮-->
     <div class="pop-resume-close">
-        <img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/pop-resume-close.png" ka="user-resume-pop-resume-close"/>
+        <img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/pop-resume-close.png" ka="user-resume-pop-resume-close"/>
     </div>
     <!--正在上传-->
     <div class="pop-item pop-loading">
         <div class="content">
-            <img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/in_upload.png" class="resume-icon"/>
+            <img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/in_upload.png" class="resume-icon"/>
             <p class="text">正在上传中</p>
-            <img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/loading.gif" class="pop-loading-pic"/>
+            <img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/loading.gif" class="pop-loading-pic"/>
         </div>
         <div class="des">
             <h4>上传简历</h4>
@@ -1316,7 +1315,7 @@
     <!--上传失败-->
     <div class="pop-item pop-fail">
         <div class="content">
-            <img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/upload-fail.png" class="resume-icon"/>
+            <img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/upload-fail.png" class="resume-icon"/>
             <div class="title upload-fail">上传失败</div>
             <p class="msg">请重新上传，如仍然无法成功，可尝试更改文件格式</p>
         </div>
@@ -1331,10 +1330,10 @@
     <!--预览失败-->
     <div class="pop-item preview-fail">
         <div class="content">
-            <img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/upload-fail.png" class="resume-icon"/>
+            <img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/upload-fail.png" class="resume-icon"/>
             <div class="title preview-fail">预览失败</div>
             <div class="msg">点击<a href="javascript:;" class="preview-refresh" ka="user-resume-refresh" >刷新</a>重新预览</div>
-            <img src="https://static.zhipin.com/zhipin-geek/v24/web/geek/images/loading.gif" class="resume-loading"/>
+            <img src="https://static.zhipin.com/zhipin-geek/v25/web/geek/images/loading.gif" class="resume-loading"/>
         </div>
         <div class="des">
             <h4>上传简历</h4>
@@ -1346,7 +1345,7 @@
     </div>
 </div>
 <script src="https://static.zhipin.com/library/js/lib/jquery-1.12.2.min.js"></script>
-<script src="https://static.zhipin.com/zhipin-geek/v24/web/geek/js/main.js"></script>
+<script src="https://static.zhipin.com/zhipin-geek/v25/web/geek/js/main.js"></script>
     <script src="https://webapi.amap.com/maps?v=1.3&key=60085a6ee91616cf689ce0321e1f30c4&plugin=AMap.Geocoder"></script>
 </body>
 <input type="hidden" id="page_key_name" value="cpc_job_detail" />
@@ -1417,11 +1416,11 @@
 </script><script type="application/ld+json">
     {
         "@context": "https://zhanzhang.baidu.com/contexts/cambrian.jsonld",
-        "@id": "https://www.zhipin.com/job_detail/11a400b48860f91c1Xd52tm_E1s~.html",
-        "title": "【云管平台研发工程师招聘】_青云招聘-BOSS直聘",
-        "description": "青云招聘云管平台研发工程师牛人,更多青云云管平台研发工程师招聘信息,请登录BOSS直聘查看详细的青云对云管平台研发工程师岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。",
-        "pubDate": "2018-07-18T14:02:14",
-        "upDate":  "2018-07-18T14:02:14"
+        "@id": "https://www.zhipin.com/job_detail/afbbc2081c296f4203d63dW5EVA~.html",
+        "title": "【Linux系统工程师-虚拟化及云计算方向招聘】_东云睿连招聘-BOSS直聘",
+        "description": "东云睿连招聘Linux系统工程师-虚拟化及云计算方向牛人,更多东云睿连Linux系统工程师-虚拟化及云计算方向招聘信息,请登录BOSS直聘查看详细的东云睿连对Linux系统工程师-虚拟化及云计算方向岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。",
+        "pubDate": "2019-05-24T14:29:06",
+        "upDate":  "2019-05-24T14:29:06"
     }
 </script>
 </html>

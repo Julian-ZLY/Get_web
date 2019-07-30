@@ -27,7 +27,7 @@ function grep_str() {
     job_money=$(sed -n ''$next_row_num'p' cp_web.html | gawk -F [\>\<] '{print "参考薪资:\t"$3}')  
     
     # 工作福利
-    job_welfare=$(cat cp_web.html | grep '</span><span>'| gawk -F [\>\<] 'END{print "工作福利:\n","\t"$3,$7,$11,$15,$19,$23,$27}')
+    job_welfare=$(cat cp_web.html | grep '</span><span>'| gawk -F [\>\<] 'END{print "工作福利:\n","\t"$3,$7,$11,$15,$19,$23,$27,$31,$35,$39}')
     
     # 招聘人
     HR=$(cat cp_web.html | grep '<h2 class="name">' | gawk -F [\>\<] '{print "信息发起人:\t"$3"\n"}') 
@@ -39,12 +39,22 @@ function grep_str() {
     row_num=$(cat cp_web.html | gawk '/<h3>职位描述<\/h3>/{print NR}') 
     sed -i '1,'$row_num'd' cp_web.html 
     
-    # 获取公司工商信息
+
+    # 获取公司工商信息和工作地址
     business_information=$(cat cp_web.html | sed -n '/<h3>工商信息<\/h3>/,$p')
-    information=$(echo "$business_information" | gawk -F [\>\<] '{print $3,$5,$7}') 
+    
+    # 筛选工作地址
+    job_address=$(echo "${business_information}" | grep 'img' | gawk -F [\"] '{print $2}')
+
+    # 去除标签;筛选工商信息
+    string_01=$(echo "$business_information" | gawk -F [\>\<] '{print $3,$5,$7,$9,$11}')
+    # 删除web网页中换行符/缩进 
+    string_02=$(echo "${string_01}" | sed 's/\r//g') 
+    string_02+="${job_address}"
+    information=$(echo "${string_02}" | sed 's/工商.*/工商信息:/;s/查看.*/查看全部:/;s/工作.*/工作地点:/')
     
     
-    # 删除工商信息 
+    # 删除工商信息标签文件 
     row_num=$(cat cp_web.html | gawk '/<h3>竞争力分析<\/h3>/{print NR}')
     sed -i ''$row_num',$d' cp_web.html 
     
@@ -63,7 +73,7 @@ function grep_str() {
     # echo "${work_info}" >> result.txt 
     
     
-    echo "${information}" >> result.txt 
+    # echo "${information}" >> result.txt 
 } 
 
 
@@ -72,40 +82,39 @@ function string() {
     grep_str 
 
     # 更新时间
-    echo "${up_time}" > result.txt    
+    # echo "${up_time}" > result.txt    
 
-    # 招聘标题
-    echo -e "${title}\n" >> result.txt 
-    
-    # 招聘岗位
-    echo "${job_name}" >> result.txt 
+    # # 招聘标题
+    # echo -e "${title}\n" >> result.txt 
+    # 
+    # # 招聘岗位
+    # echo "${job_name}" >> result.txt 
 
-    # 招聘发起人;招聘人信息
-    echo "${HR}    ${HR_info}" >> result.txt 
-    
-    # 招聘状态
-    echo "${job_status}" >> result.txt 
-    
-    # 招聘基本要求
-    echo "${basic_requirements}" >> result.txt 
-    
-    # 参考薪资
-    echo "${job_money}" >> result.txt 
+    # # 招聘发起人;招聘人信息
+    # echo "${HR}    ${HR_info}" >> result.txt 
+    # 
+    # # 招聘状态
+    # echo "${job_status}" >> result.txt 
+    # 
+    # # 招聘基本要求
+    # echo "${basic_requirements}" >> result.txt 
+    # 
+    # # 参考薪资
+    # echo "${job_money}" >> result.txt 
 
-    # 工作福利
-    echo -e  "${job_welfare}\n" >> result.txt 
+    # # 工作福利
+    # echo -e  "${job_welfare}\n" >> result.txt 
 
     # 工作职责;招聘要求
-    echo -e "职位信息:\n${recruitment_info}\n" >> result.txt 
+    # echo -e "职位信息:\n${recruitment_info}\n" >> result.txt 
     
 
     # 工商信息
-    echo "${information}" >> result.txt 
+    echo "${information}" > result.txt 
+
 
 } 
-
 string 
-
 
 
 

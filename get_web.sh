@@ -10,8 +10,8 @@
 # url='https://www.zhipin.com/job_detail/4c0042e9a5b4bc2303R92ti9GVI~.html?ka=search_list_1' 
 # url='https://www.zhipin.com/job_detail/319bb8d27e1cdfd01Hx93d67EFs~.html?ka=search_list_1_blank&lid=1CvZrIXE3V8.search'
 # url='https://www.zhipin.com/job_detail/8159e1a7c4e0d7b003R-39u8EFo~.html?ka=search_list_1'
-url='https://www.zhipin.com/job_detail/11a400b48860f91c1Xd52tm_E1s~.html?ka=search_list_19_blank&lid=1CwjQEy0QWW.search'
+# url='https://www.zhipin.com/job_detail/11a400b48860f91c1Xd52tm_E1s~.html?ka=search_list_19_blank&lid=1CwjQEy0QWW.search'
 
-curl $url > web.txt 
+curl $1 > web.txt 
 \cp web.txt cp_web.html 
-bash grep_web.sh
+bash   grep_web.sh

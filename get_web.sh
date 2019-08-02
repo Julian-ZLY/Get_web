@@ -14,4 +14,4 @@
 
 curl --connect-timeout 5  $1 > web.txt 
 \cp web.txt cp_web.html 
-bash   grep_web.sh
+bash -x grep_web.sh

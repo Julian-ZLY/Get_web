@@ -6,13 +6,13 @@
 <!--[if (gt IE 9)|!(IE)]><!--><html class="standard"><!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>【数据挖掘招聘】_美的it招聘-BOSS直聘</title>
-    <meta name="keywords" content="数据挖掘,数据挖掘招聘,美的it数据挖掘招聘"/>
-    <meta name="description" content="美的it招聘数据挖掘牛人,更多美的it数据挖掘招聘信息,请登录BOSS直聘查看详细的美的it对数据挖掘岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。"/>
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.zhipin.com/job_detail/0780b2b4c3dff7981Xdy2t29FlI~.html">
-    <link rel="canonical" href="https://www.zhipin.com/job_detail/0780b2b4c3dff7981Xdy2t29FlI~.html">
+    <title>【亚博科技-Java开发工程师招聘】_阿里巴巴集团招聘-BOSS直聘</title>
+    <meta name="keywords" content="亚博科技-Java开发工程师,亚博科技-Java开发工程师招聘,阿里巴巴集团亚博科技-Java开发工程师招聘"/>
+    <meta name="description" content="阿里巴巴集团招聘亚博科技-Java开发工程师牛人,更多阿里巴巴集团亚博科技-Java开发工程师招聘信息,请登录BOSS直聘查看详细的阿里巴巴集团对亚博科技-Java开发工程师岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.zhipin.com/job_detail/a82c3be9abcd6db31nZ43di_EFs~.html">
+    <link rel="canonical" href="https://www.zhipin.com/job_detail/a82c3be9abcd6db31nZ43di_EFs~.html">
     <meta name="applicable-device" content="pc">
-    <meta name="mobile-agent" content="format=html5;url=https://m.zhipin.com/job_detail/0780b2b4c3dff7981Xdy2t29FlI~.html">
+    <meta name="mobile-agent" content="format=html5;url=https://m.zhipin.com/job_detail/a82c3be9abcd6db31nZ43di_EFs~.html">
     <link href="https://static.zhipin.com/zhipin-geek/v28/web/geek/css/main.css" type="text/css" rel="stylesheet">
     <script type="text/javascript">
         var _userInfo = {
@@ -23,15 +23,15 @@
             hasKaAnotherS: false
         };
         var _reportData = {
-            reportedId: '08e74462ed7a870a1HF53N27GFc~',
-            targetId: '23810060'
+            reportedId: '1736c7c9863eedff1nZ72dy9ElU~',
+            targetId: '12265209'
         };
         var _jobInfo = {
-            job_id: '0780b2b4c3dff7981Xdy2t29FlI~',
-            job_name: '数据挖掘',
-            job_salary: '20-40K',
-            company:'美的it',
-            brand_logo:'https://img.bosszhipin.com/beijin/mcs/bar/20180305/5ecbfe169937a913c181e5c42c7e566abe1bd4a3bd2a63f070bdbdada9aad826.jpg'
+            job_id: 'a82c3be9abcd6db31nZ43di_EFs~',
+            job_name: '亚博科技-Java开发工程师',
+            job_salary: '15-30K',
+            company:'阿里巴巴集团',
+            brand_logo:'https://img.bosszhipin.com/beijin/mcs/bar/20180906/5fd9804307c9e266559d8c4c911d228fbe1bd4a3bd2a63f070bdbdada9aad826.png'
         };
     </script>
 
@@ -70,7 +70,7 @@
                     <div class="search-form-con">
                         <p class="ipt-wrap"><input ka="search-job-query" name="query" type="text" class="ipt-search" autocomplete="off" maxlength="50" placeholder="搜索职位、公司"/></p>
                     </div>
-                    <input type="hidden" name="city" class="city-code" value="101280100"/>
+                    <input type="hidden" name="city" class="city-code" value="101010100"/>
                     <input type="hidden" name="source" value="8">
                     <button type="submit" ka="search-job-top" class="btn btn-search">搜索</button>
                     <div class="suggest-result">
@@ -96,36 +96,36 @@
                     <div class="pos-bread">
                         <a href="/" ka="job-breadcrumb-top1">首页</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/c101280100/" ka="job-breadcrumb-top2">广州招聘</a>·<a href="/p100509/" ka="job-breadcrumb-top21">数据挖掘招聘</a>
+                        <a href="/c101010100/" ka="job-breadcrumb-top2">北京招聘</a>·<a href="/p100101/" ka="job-breadcrumb-top21">Java招聘</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/c101280100-p100509/" ka="job-breadcrumb-top3">广州数据挖掘招聘</a>
+                        <a href="/c101010100-p100101/" ka="job-breadcrumb-top3">北京Java招聘</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/job_detail/0780b2b4c3dff7981Xdy2t29FlI~.html" ka="job-breadcrumb-top4">美的it数据挖掘招聘</a>
+                        <a href="/job_detail/a82c3be9abcd6db31nZ43di_EFs~.html" ka="job-breadcrumb-top4">阿里巴巴集团亚博科技-Java开发工程师招聘</a>
                     </div>
                     <div class="info-primary">
                         <div class="job-status">招聘中</div>
                         <div class="name">
-                            <h1>数据挖掘</h1>
-                            <span class="salary">20-40K</span>
+                            <h1>亚博科技-Java开发工程师</h1>
+                            <span class="salary">15-30K</span>
                         </div>
-                            <p>广州<em class="dolt"></em>3-5年<em class="dolt"></em>本科</p>
+                            <p>北京<em class="dolt"></em>3-5年<em class="dolt"></em>本科</p>
                             <div class="tag-container">
                                 <div class="tag-more" style="opacity: 1;">
                                     <span class="link-more">...</span>
                                     <div class="tag-all job-tags">
-                                        <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>餐补</span><span>住房补贴</span>
+                                        <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>节日福利</span><span>保险</span>
                                     </div>
                                 </div>
                                 <div class="job-tags">
-                                    <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>餐补</span><span>住房补贴</span>
+                                    <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>节日福利</span><span>保险</span>
                                 </div>
                             </div>
                     </div>
                     <div class="job-op">
                         <div class="btn-container">
                             <!-- 未登录 -->
-                                                 <a class="btn btn-startchat" ka="go_greet_tosign_23810060" href="javascript:;" redirect-url="/geek/new/index/chat?id=08e74462ed7a870a1HF53N27GFc~" target="_blank"
-                          data-url="/wapi/zpgeek/friend/add.json?jobId=0780b2b4c3dff7981Xdy2t29FlI~">立即沟通</a>
+                                                 <a class="btn btn-startchat" ka="go_greet_tosign_12265209" href="javascript:;" redirect-url="/geek/new/index/chat?id=1736c7c9863eedff1nZ72dy9ElU~" target="_blank"
+                          data-url="/wapi/zpgeek/friend/add.json?jobId=a82c3be9abcd6db31nZ43di_EFs~">立即沟通</a>
 
                         </div>
                         <div class="op-container">
@@ -142,29 +142,29 @@
             <div class="inner home-inner">
                 <div class="detail-op">
                     <div class="btns">
-                                             <a class="btn btn-startchat" ka="go_greet_tosign_23810060" href="javascript:;" redirect-url="/geek/new/index/chat?id=08e74462ed7a870a1HF53N27GFc~" target="_blank"
-                          data-url="/wapi/zpgeek/friend/add.json?jobId=0780b2b4c3dff7981Xdy2t29FlI~">立即沟通</a>
+                                             <a class="btn btn-startchat" ka="go_greet_tosign_12265209" href="javascript:;" redirect-url="/geek/new/index/chat?id=1736c7c9863eedff1nZ72dy9ElU~" target="_blank"
+                          data-url="/wapi/zpgeek/friend/add.json?jobId=a82c3be9abcd6db31nZ43di_EFs~">立即沟通</a>
 
                     </div>
                 </div>
                 <div class="company-info">
                     <div class="name">
-                        <h1>数据挖掘</h1>
-                        <span class="badge">20-40K</span></div>
+                        <h1>亚博科技-Java开发工程师</h1>
+                        <span class="badge">15-30K</span></div>
                         <div class="tag-container">
                             <div class="tag-more" style="opacity: 1;">
                                 <span class="link-more">...</span>
                                 <div class="tag-all job-tags">
-                                    <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>餐补</span><span>住房补贴</span>
+                                    <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>节日福利</span><span>保险</span>
                                 </div>
                             </div>
                             <div class="job-tags">
-                                <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>餐补</span><span>住房补贴</span>
+                                <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>节日福利</span><span>保险</span>
                             </div>
                         </div>
                     <div class="info">
-                                美的it
-                        <a href="/gongsir/84d9bebfb2257b211HB73dW1.html" target="_blank" class="link-more" ka="look-all-position">查看所有职位</a>
+                                阿里巴巴集团
+                        <a href="/gongsir/5d627415a46b4a750nJ9.html" target="_blank" class="link-more" ka="look-all-position">查看所有职位</a>
                     </div>
                 </div>
             </div>
@@ -239,20 +239,20 @@
                     <div class="sider-company">
                         <p class="title">公司基本信息</p>
                             <div class="company-info">
-                                <a ka="job-detail-company-logo_custompage" href="/gongsi/84d9bebfb2257b211HB73dW1.html" title="                                    美的it
+                                <a ka="job-detail-company-logo_custompage" href="/gongsi/5d627415a46b4a750nJ9.html" title="                                    阿里巴巴集团
 " target="_blank">
-                                        <img src="https://img.bosszhipin.com/beijin/mcs/bar/20180305/5ecbfe169937a913c181e5c42c7e566abe1bd4a3bd2a63f070bdbdada9aad826.jpg?x-oss-process=image/resize,w_120,limit_0" alt=""/>
+                                        <img src="https://img.bosszhipin.com/beijin/mcs/bar/20180906/5fd9804307c9e266559d8c4c911d228fbe1bd4a3bd2a63f070bdbdada9aad826.png?x-oss-process=image/resize,w_120,limit_0" alt=""/>
                                 </a>
-                                <a ka="job-detail-company_custompage" href="/gongsir/84d9bebfb2257b211HB73dW1.html"  title="                                    美的it
+                                <a ka="job-detail-company_custompage" href="/gongsir/5d627415a46b4a750nJ9.html"  title="                                    阿里巴巴集团
 招聘" target="_blank">
-                                                                        美的it
+                                                                        阿里巴巴集团
 
                                 </a>
                             </div>
-                                 <p><i class="icon-stage"></i>已上市</p>
+                                 <p><i class="icon-stage"></i>不需要融资</p>
                                 <p><i class="icon-scale"></i>10000人以上</p>
-                                <p><i class="icon-industry"></i><a ka="job-detail-brandindustry" href="/i100021/">计算机软件</a></p>
-                                <p><i class="icon-net"></i>http://www.midea.com</p>
+                                <p><i class="icon-industry"></i><a ka="job-detail-brandindustry" href="/i100020/">互联网</a></p>
+                                <p><i class="icon-net"></i>https://job.alibaba.com/zhaopin/index.htm</p>
                      <p class="gray">更新于：2019-08-02</p>
                 </div>
 
@@ -266,65 +266,65 @@
                     <a class="btn" href="/activity/personality/index.html" target="_blank" ka="job-detail-personality">立即测试</a>
                 </div>
                     <div class="promotion-job">
-                        <h3><a href="/c101280100-p100509/e_105-y_6_7/" ka="more-similar-jobs2" class="more" target="_blank">更多相似职位</a>相似职位</h3>
+                        <h3><a href="/c101010100-p100101/e_105-y_5_6/" ka="more-similar-jobs2" class="more" target="_blank">更多相似职位</a>相似职位</h3>
                         <ul>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand1_custompage" href="/gongsi/b0045d381ce69c711XZ639Q~.html" target="_blank" title="宇信科技">
-                                                <img src="https://img2.bosszhipin.com/mcs/chatphoto/20160120/5cd86abc7efe2841588ac6b377002c009195689b837a33f76337e06efa3d361f.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand1_custompage" href="/gongsi/551d062684338c9703Jz3N24.html" target="_blank" title="便利蜂">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190411/333cab9d66dd03ba9adfd5e5267ea9f73b064c209aaadef03eabcba95619bbc4_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_1" href="/job_detail/9503950951e2fd491HN73dS8FFo~.html" target="_blank">金融行业数据挖掘应用模型专家 <span class="red">35-55K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob1_custompage" href="/gongsir/b0045d381ce69c711XZ639Q~.html" target="_blank" title="宇信科技招聘">宇信科技</a><em class="vdot">·</em>广州</p>
+                                        <div class="name"><a ka="job_sug_1" href="/job_detail/0e6ffb0b5a60fba603Vy3ty_E1s~.html" target="_blank">Java开发工程师 <span class="red">25-50K·14薪</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob1_custompage" href="/gongsir/551d062684338c9703Jz3N24.html" target="_blank" title="便利蜂招聘">便利蜂</a><em class="vdot">·</em>北京</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand2_custompage" href="/gongsi/060b942557d580881nV909-0Ew~~.html" target="_blank" title="影子数据">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20171206/2cc7d4253aca899a21d2efecd3d27df5cfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand2_custompage" href="/gongsi/084e4b398bf4e32d1nZ-3Ny1.html" target="_blank" title="微医集团">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/bar/brand/124718.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_2" href="/job_detail/999f30eb25110f971XBz3tS6F1Q~.html" target="_blank">数据挖掘与分析顾问 <span class="red">9-18K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob2_custompage" href="/gongsir/060b942557d580881nV909-0Ew~~.html" target="_blank" title="影子数据招聘">影子数据</a><em class="vdot">·</em>广州</p>
+                                        <div class="name"><a ka="job_sug_2" href="/job_detail/3087cf662e2cea511HF63N68EVc~.html" target="_blank">java开发工程师 <span class="red">14-28K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob2_custompage" href="/gongsir/084e4b398bf4e32d1nZ-3Ny1.html" target="_blank" title="微医集团招聘">微医集团</a><em class="vdot">·</em>北京</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand3_custompage" href="/gongsi/947b477fc437bee803V83N2_.html" target="_blank" title="广州时代数据">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20161110/c6efeb745f509f41a216759f87c69752845f980aec80915eeec85fd7daf16cec.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand3_custompage" href="/gongsi/4b52c04a84d7aced1nd92N69.html" target="_blank" title="联想利泰">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20160614/246d6aabca5fc8b18273cdf7ac78a3fba913d92db28697eac97819731866a743.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_3" href="/job_detail/a56b5bf7f834083f1nF929-5EFY~.html" target="_blank">数据挖掘 <span class="red">15-18K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob3_custompage" href="/gongsir/947b477fc437bee803V83N2_.html" target="_blank" title="广州时代数据招聘">广州时代数据</a><em class="vdot">·</em>广州</p>
+                                        <div class="name"><a ka="job_sug_3" href="/job_detail/8780b64227d1c6011ndz0ti8EVI~.html" target="_blank">高级Java开发工程师 <span class="red">15-20K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob3_custompage" href="/gongsir/4b52c04a84d7aced1nd92N69.html" target="_blank" title="联想利泰招聘">联想利泰</a><em class="vdot">·</em>北京</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand4_custompage" href="/gongsi/4aa9dc895e850e2c1XRy0t21EA~~.html" target="_blank" title="精通教科">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180706/7b4a612cdbeca392da266cbdffb365cccfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand4_custompage" href="/gongsi/3eea170a031c85cc1nV829-6.html" target="_blank" title="信雅达">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20160531/7042d7b964e4b00a01c49964436b9638fa71f5d0b53e861fc559cb029321a4ef.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_4" href="/job_detail/76d22acd096a99ca03Zz2tm0ElY~.html" target="_blank">数据挖掘工程师 <span class="red">6-11K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob4_custompage" href="/gongsir/4aa9dc895e850e2c1XRy0t21EA~~.html" target="_blank" title="精通教科招聘">精通教科</a><em class="vdot">·</em>广州</p>
+                                        <div class="name"><a ka="job_sug_4" href="/job_detail/4e5c04e2ae31232f1HJ42tS9E1s~.html" target="_blank">Java开发工程师 <span class="red">15-25K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob4_custompage" href="/gongsir/3eea170a031c85cc1nV829-6.html" target="_blank" title="信雅达招聘">信雅达</a><em class="vdot">·</em>北京</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand5_custompage" href="/gongsi/3cd1227f6f3530fc1nBz3tq_Ew~~.html" target="_blank" title="荔枝">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180314/1926064bdabcae5ecf8def9d93f441abcfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand5_custompage" href="/gongsi/9a642c7c645a11b11HJ_2Nk~.html" target="_blank" title="南天软件">
+                                                <img src="https://img2.bosszhipin.com/mcs/chatphoto/20160323/869094abbb4ee6926ed14e0afb1238b16d4e2c76c99f2ce486c837a7331a05c0.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_5" href="/job_detail/7f63c8b643d3d35b1HBy3t2-ElY~.html" target="_blank">高级数据挖掘工程师 <span class="red">15-30K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob5_custompage" href="/gongsir/3cd1227f6f3530fc1nBz3tq_Ew~~.html" target="_blank" title="荔枝招聘">荔枝</a><em class="vdot">·</em>广州</p>
+                                        <div class="name"><a ka="job_sug_5" href="/job_detail/e096b11cc9f986371HJ93t26FFA~.html" target="_blank">JAVA开发工程师 <span class="red">12-16K·13薪</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob5_custompage" href="/gongsir/9a642c7c645a11b11HJ_2Nk~.html" target="_blank" title="南天软件招聘">南天软件</a><em class="vdot">·</em>北京</p>
                                     </div>
                                 </li>
                         </ul>
-                            <div class="view-more"><a href="/c101280100-p100509/e_105-y_6_7/" target="_blank" ka="more-similar-jobs3"><i class="more">更多相似职位</i></a></div>
+                            <div class="view-more"><a href="/c101010100-p100101/e_105-y_5_6/" target="_blank" ka="more-similar-jobs3"><i class="more">更多相似职位</i></a></div>
                     </div>
 
                 <div class="promotion-img">
@@ -336,18 +336,18 @@
                 <div class="detail-op">
                     <div class="btns">
                         <div class="op-links">
-                            <a ka="job_detail_wechat_share" href="javascript:;" class="link-wechat-share" data-url="/boss/share/job.json?jobId=0780b2b4c3dff7981Xdy2t29FlI~&source=2">微信扫码分享</a>
+                            <a ka="job_detail_wechat_share" href="javascript:;" class="link-wechat-share" data-url="/boss/share/job.json?jobId=a82c3be9abcd6db31nZ43di_EFs~&source=2">微信扫码分享</a>
                             <a href="javascript:;" ka="job_detail_like" class="link-like "
-                               data-url="/geek/tag/jobtagupdate.json?jobId=0780b2b4c3dff7981Xdy2t29FlI~&expectId=&tag=4&lid=">感兴趣</a>
+                               data-url="/geek/tag/jobtagupdate.json?jobId=a82c3be9abcd6db31nZ43di_EFs~&expectId=&tag=4&lid=">感兴趣</a>
                             <a ka="job_detail_report" href="javascript:;" class="link-report">举报</a>
                         </div>
                     </div>
 
                     <div class="detail-figure">
-                            <img src="https://img.bosszhipin.com/boss/avatar/avatar_5.png?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                            <img src="https://img.bosszhipin.com/beijin/mcs/useravatar/20160622/bf0aea9604f1b0fb67be488b024a8a678c7dd922ad47494fc02c388e12c00eac_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                     </div>
-                    <h2 class="name">马先生<i class="icon-vip"></i></h2>
-                    <p class="gray">大数据产品经理<em class="vdot">·</em>刚刚在线</p>
+                    <h2 class="name">张女士<i class="icon-vip"></i></h2>
+                    <p class="gray">HR<em class="vdot">·</em>刚刚在线</p>
                 </div>
                 <div class="detail-content">
                     <!--已关闭职位-->
@@ -355,15 +355,15 @@
                             <div class="job-sec">
                                 <h3>职位描述</h3>
                                 <div class="text">
-                                    【工作职责】<br/>负责美的智能产品数据挖掘分析，驱动产品智能及用户体验提升，主要包括：<br/>1、通过数据洞察发现问题及分析场景，撰写分析报告及建议解决方案，推动业务变革；<br/>2、使用常用的数据分析及挖掘算法模型，按需求建立模型，为业务提供决策支持；<br/>3、面向用户、事业部及业务部门发布数据报告及数据小品；<br/>4、参与数据产品及数据可视化建设；<br/>5、挖掘智能用户、设备数据，制定标签为营销企划提供数据支撑；<br/>【岗位要求】<br/>1、统招本科及以上学历，3年以上工作经验，2年以上数据分析或数据挖掘经验；<br/>2、熟悉常用的数理统计理论、数据分析方法及挖掘算法；<br/>2、掌握R、Python、SPSS等至少一钟分析挖掘工具；<br/>2、熟练使用办公软件，有较强的报告撰写能力及一定的汇报能力；<br/>4、数据大数据体系基本架构，能够使用SQL查询取数&quot;<br/>【加分项】<br/>1、有机器学习、深度学习实践经验；<br/>2、有用户标签应用产品经验；
+                                    1.负责彩票行业产业链信息平台及推广平台产品的需求分析、开发和架构，负责推动彩票新零售系统建设和平台架构演进；<br/>2.借助阿里经济体强大的数字化驱动能力，通过技术和数字化手段，实现彩票行业的数字化转型，为全球彩票行业数字化提供一站式解决方案；<br/>3.推动技术和行业的融合， 推动团队的架构设计能力提升；<br/>4.前瞻性，随着业务复杂性、负载和运维成本的增加，持续的推动系统重构，降低系统的熵；<br/>我们是谁：<br/>我们是亚博科技彩票技术团队，亚博科技是阿里巴巴集团生态公司。在当下，我们看到了行业的痛点市场的机会；在未来，我们还有更长的路要走，我们希望用技术的开放创新普惠彩票及相关行业。<br/>这份工作能为你带来什么<br/>1.技术挑战。并发、大数据风控和精准营销，这些最前沿最热的技术方向你都会接触到；<br/>2.复杂的业务场景。我们拥有面向监管机构（两彩中心）、几十万的彩票业主、千万级彩票消费者场景提供的复杂业务场景，能极大提升你的抽象、业务建模、业务架构能力；<br/>3.快速的个人成长。一堆P7、P8阿里技术大牛，使用阿里技术栈，全开放的阿里内部技术论坛培训，加速你的个人成长；<br/>4.个人成就感。也许你上线的一个小功能明天就会有数以百万的消费者使用，想想还是有点小激动呢；<br/>职位描述<br/>1、精通Java及Web应用开发，至少五年以上服务端项目开发管理经验；<br/>2、有营销平台、信息平台、大数据营销等相关项目开发管理经验的，给你一个Big plus；<br/>3、能深入理解Spring、Mybatis等用过的框架的特性及其实现原理，熟悉常用的开源分布式系统，如：RocketMQ、ES等，有大规模分布式系统开发、维护经验，有故障处理能力，源码级开发能力；<br/>4、有较好的团队协作能力和产品理解能力，对技术有极客精神，有较强的学习能力，自我驱动力强，有强烈的事业心和责任感，结果导向
                                 </div>
                             </div>
                                 <div class="job-sec company-info">
                                     <h3>公司介绍</h3>
                                     <div class="text">
-                                        2011年IT组织整合为流程IT，是总部一级职能部门，负责美的集团IT战略规划，负责推动集团业务流程变革与端到端IT解决方案的交付，具备IT系统自主研发和自主交付能力。 <br/>  在职员工由2011年296人，增长至2015年890人，研发人员由占比18%增长至51%；具备优秀的流程管理、架构管理、需
+                                        阿里巴巴集团的使命是让天下没有难做的生意。<br/>我们旨在赋能企业改变营销、销售和经营的方式。我们为商家、品牌及其他企业提供基本的互联网基础设施以及营销平台，让其可借助互联网的力量与用户和客户互动。我们的业务包括核心电商、云计算、数字媒体和娱乐以及创新项目和其他业务。我们并通过子公司菜鸟网络及所投资的关
                                     </div>
-                                    <a ka="job-comintroduce" href="/gongsi/84d9bebfb2257b211HB73dW1.html" target="_blank" class="look-all"><span>...</span>查看全部</a>
+                                    <a ka="job-comintroduce" href="/gongsi/5d627415a46b4a750nJ9.html" target="_blank" class="look-all"><span>...</span>查看全部</a>
                                 </div>
                             <div class="job-sec prop-item">
                                 <h3>竞争力分析</h3>
@@ -384,70 +384,70 @@
                             </div>
                                 <div class="job-sec">
                                     <h3>工商信息</h3>
-                                    <div class="name">广东美的制冷设备有限公司</div>
+                                    <div class="name">阿里巴巴（中国）有限公司</div>
                                     <div class="level-list">
-                                        <li><span>法人代表：</span>王建国</li>
-                                        <li><span>注册资金：</span>85400万元人民币</li>
-                                        <li class="res-time"><span>成立时间：</span>2004-10-22</li>
-                                        <li class="company-type"><span>企业类型：</span>有限责任公司（中外合资）</li>
-                                        <li class="manage-state"><span>经营状态：</span>在营（开业）企业</li>
+                                        <li><span>法人代表：</span>张勇</li>
+                                        <li><span>注册资金：</span>15298万美元</li>
+                                        <li class="res-time"><span>成立时间：</span>2007-03-26</li>
+                                        <li class="company-type"><span>企业类型：</span>有限责任公司（台港澳法人独资）</li>
+                                        <li class="manage-state"><span>经营状态：</span>存续</li>
                                     </div>
-                                    <a ka="job-cominfo" href="/gongsi/84d9bebfb2257b211HB73dW1.html" target="_blank" class="look-all">查看全部</a>
+                                    <a ka="job-cominfo" href="/gongsi/5d627415a46b4a750nJ9.html" target="_blank" class="look-all">查看全部</a>
                                 </div>
                             <div class="job-sec">
                                 <h3>工作地址</h3>
                                 <div class="job-location">
-                                    <div class="location-address">广州市 番禺区 广州南站 美的集团</div>
-                                    <div class="job-location-map js-open-map" data-content="广州市 番禺区 广州南站 美的集团">
-                                        <img src="https://restapi.amap.com/v3/staticmap?size=652*174&markers=mid,0xFF0000,A:113.268586,22.987472&key=21b56a6cc83fad7668dbb0e9564759a7" alt="公司地址" />
+                                    <div class="location-address">北京北京国家广告产业园区</div>
+                                    <div class="job-location-map js-open-map" data-content="北京北京国家广告产业园区">
+                                        <img src="https://restapi.amap.com/v3/staticmap?size=652*174&markers=mid,0xFF0000,A:116.473399,39.903256&key=21b56a6cc83fad7668dbb0e9564759a7" alt="公司地址" />
                                         <p>点击查看地图</p>
                                     </div>
                                 </div>
                             </div>
                         <div class="job-recomend">
-                            <h3><a href="/c101280100-p100509/e_105-y_6_7/" ka="more-similar-jobs4" class="more" target="_blank">更多职位</a>看过该职位的人还看了</h3>
+                            <h3><a href="/c101010100-p100101/e_105-y_5_6/" ka="more-similar-jobs4" class="more" target="_blank">更多职位</a>看过该职位的人还看了</h3>
                             <ul>
                                     <li>
-                                        <a ka="job_sug_6" href="/job_detail/9350b078ae9cf2731nN63NS9GVI~.html" target="_blank">
+                                        <a ka="job_sug_6" href="/job_detail/012188949d200d2e1X173tu8GVQ~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20160906/c059d81ec1184b226b96cf4921df6aaa5a6e5c45be0ebc58f52294aa4d01cf9d.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180423/fc999bca7f673aba2cfcc2b74242d21dcfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>数据挖掘</b></div>
-                                                <p class="red">5-8K</p >
+                                                <div class="name"><b>Java开发工程师</b></div>
+                                                <p class="red">15-25K</p >
                                                 <p class="gray">
-                                                        比地数据<em class="vdot">·</em>
-                                                    广州
+                                                        爱奇艺智能<em class="vdot">·</em>
+                                                    北京
                                                 </p>
                                             </div>
                                         </a>
                                     </li>
                                     <li>
-                                        <a ka="job_sug_7" href="/job_detail/9a3ef222da7b778c1XZ_3Nu7FFY~.html" target="_blank">
+                                        <a ka="job_sug_7" href="/job_detail/575703f149e1faeb1n143NW_ElQ~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/logo/e584c589eb0abb719f1b319eb52f1da6be1bd4a3bd2a63f070bdbdada9aad826.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190516/e9f2424606108522ab9341d6cd8905ea39c34ca7887b61bc4ba563082410a58d_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>数据挖掘</b></div>
-                                                <p class="red">8-9K</p >
-                                                <p class="gray">
-                                                        尚德机构<em class="vdot">·</em>
-                                                    广州
-                                                </p>
-                                            </div>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a ka="job_sug_8" href="/job_detail/ca31ac77998ce8b81HF-3t68GVs~.html" target="_blank">
-                                            <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/mcs/bar/20190702/43d283af0a91f22b17db9ab60071f0a3be1bd4a3bd2a63f070bdbdada9aad826.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
-                                            </div>
-                                            <div class="info-primary">
-                                                <div class="name"><b>数据挖掘高级/资深工程师/专家</b></div>
+                                                <div class="name"><b>Java开发工程师</b></div>
                                                 <p class="red">20-40K</p >
                                                 <p class="gray">
-                                                        小鹏汽车<em class="vdot">·</em>
-                                                    广州
+                                                        小米<em class="vdot">·</em>
+                                                    北京
+                                                </p>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a ka="job_sug_8" href="/job_detail/e4a68d88375135d603Z82ti5Els~.html" target="_blank">
+                                            <div class="company-logo">
+                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20170109/bc1067ee6450bc3a11ac2296ffaea2c0b0f2ff6b2b149a4b617801e418a1c920.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                            </div>
+                                            <div class="info-primary">
+                                                <div class="name"><b>Java开发工程师</b></div>
+                                                <p class="red">10-15K·13薪</p >
+                                                <p class="gray">
+                                                        神州信息<em class="vdot">·</em>
+                                                    北京
                                                 </p>
                                             </div>
                                         </a>
@@ -458,13 +458,13 @@
                         <div class="search-form">
                             <form action="/job_detail/" method="get" target="_blank">
                                 <div class="search-form-con">
-                                    <p class="ipt-wrap"><input ka="search-job-query" name="query" type="text" class="ipt-search" autocomplete="off" placeholder="搜索职位、公司" value="数据挖掘"></p>
+                                    <p class="ipt-wrap"><input ka="search-job-query" name="query" type="text" class="ipt-search" autocomplete="off" placeholder="搜索职位、公司" value="Java"></p>
                                     <div class="city-sel" ka="search-select-city">
                                         <i class="line"></i>
-                                        <span class="label-text cur"><b data-val="101280100">广州</b><i class="icon-arrow-down"></i></span>
+                                        <span class="label-text cur"><b data-val="101010100">北京</b><i class="icon-arrow-down"></i></span>
                                     </div>
                                 </div>
-                                <input type="hidden" name="city" class="city-code" value="101280100"/>
+                                <input type="hidden" name="city" class="city-code" value="101010100"/>
                                 <input type="hidden" name="source" value="9">
                                 <button type="submit" ka="search-job" class="btn btn-search">搜索</button>
                                 <div class="suggest-result">
@@ -484,171 +484,171 @@
                              <div class="slider-main">
                                  <ul>
                                             <li class="cur">
-                                        <a ka="job_recommend_1" href="/job_detail/6daafd553642ff701nJ82Nq1GVE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘/建模工程师 <span class="red">15-30K</span></div>
-                                            <p>视源股份(CVTE)</p>
+                                        <a ka="job_recommend_1" href="/job_detail/8999fcbb1bb65d7e1Hxy2t-1FlE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">10-12K·13薪</span></div>
+                                            <p>中科软</p>
                                         </a>
-                                        <a ka="job_recommend_2" href="/job_detail/c47f291b2714e3441nRy09y5GFs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-20K</span></div>
-                                            <p>广州思迈特</p>
+                                        <a ka="job_recommend_2" href="/job_detail/129aa3c0502cd7011HZ-3NS4ElI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA开发工程师 <span class="red">12-16K</span></div>
+                                            <p>软通动力</p>
                                         </a>
-                                        <a ka="job_recommend_3" href="/job_detail/fa23ab723bc252a603V82d20F1Q~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">13-20K</span></div>
-                                            <p>壹健康科技</p>
+                                        <a ka="job_recommend_3" href="/job_detail/cc11c61ec4534a6a1X152tm0EFI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java后台开发工程师 <span class="red">20-30K</span></div>
+                                            <p>苏宁易购</p>
                                         </a>
-                                        <a ka="job_recommend_4" href="/job_detail/226b093892077df91nd-39-7F1M~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">6-9K</span></div>
-                                            <p>名创优品</p>
+                                        <a ka="job_recommend_4" href="/job_detail/f811f02eb47f9d031HF439S_E1M~.html" target="_blank" class="recommend-li">
+                                            <div class="name">java开发工程师 <span class="red">20-35K</span></div>
+                                            <p>携程旅行网</p>
                                         </a>
-                                        <a ka="job_recommend_5" href="/job_detail/50cc2353836a386b1XB83t-4Els~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">20-30K</span></div>
-                                            <p>绿瘦集团</p>
+                                        <a ka="job_recommend_5" href="/job_detail/a0e40e2b0f1b987f1XJz0t-6FlM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">资深Java开发工程师 <span class="red">20-40K</span></div>
+                                            <p>阿里巴巴集团</p>
                                         </a>
-                                        <a ka="job_recommend_6" href="/job_detail/7e80c96130a9ba741HR80tm-FVs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘研究员 <span class="red">13-20K</span></div>
-                                            <p>视源股份(CVTE)</p>
+                                        <a ka="job_recommend_6" href="/job_detail/bc95cf2c30226ea41HJ50ty5EVY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">10-12K</span></div>
+                                            <p>中科软</p>
                                         </a>
-                                        <a ka="job_recommend_7" href="/job_detail/b93db4e2f0cf38461HR-2dy5Flo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-30K</span></div>
-                                            <p>广州视睿</p>
+                                        <a ka="job_recommend_7" href="/job_detail/54271fc1e46acab81XJy2tS-F1I~.html" target="_blank" class="recommend-li">
+                                            <div class="name">java开发工程师 <span class="red">11-15K</span></div>
+                                            <p>神州信息</p>
                                         </a>
-                                        <a ka="job_recommend_8" href="/job_detail/df2fd1fde3c6b9bb1HNz2dW-GVM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师（供应链方向） <span class="red">13-26K</span></div>
-                                            <p>视源股份(CVTE)</p>
+                                        <a ka="job_recommend_8" href="/job_detail/2fa3dbd4fc13f0ba1H1y2tW-FVU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">中级Java开发工程师 <span class="red">9-14K</span></div>
+                                            <p>中科软</p>
                                         </a>
-                                        <a ka="job_recommend_9" href="/job_detail/25838f904bef3a251HJy0ty8E1A~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">12-24K</span></div>
-                                            <p>多益网络</p>
+                                        <a ka="job_recommend_9" href="/job_detail/be5b8e35e1bcd4ee1nZ929-0FFo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">9-18K</span></div>
+                                            <p>中科软科技</p>
                                         </a>
-                                        <a ka="job_recommend_10" href="/job_detail/912a981b2eb2143f0Hd_3dm-FA~~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">12-13K</span></div>
-                                            <p>国机智能</p>
-                                        </a>
-                                            </li>
-                                            <li class="">
-                                        <a ka="job_recommend_11" href="/job_detail/2cd933ab0c1ca25a1HF_0tW1GFY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">20-28K</span></div>
-                                            <p>思迈特软件</p>
-                                        </a>
-                                        <a ka="job_recommend_12" href="/job_detail/ffa9e2998828aad503d82NW-Elo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘算法工程师 <span class="red">15-20K·15薪</span></div>
-                                            <p>锦江酒店</p>
-                                        </a>
-                                        <a ka="job_recommend_13" href="/job_detail/bee82b7584328b681XZ62ty0ElE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">20-40K</span></div>
-                                            <p>腾讯</p>
-                                        </a>
-                                        <a ka="job_recommend_14" href="/job_detail/63e0644f26230c831XZ80tu6EVs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">10-15K</span></div>
-                                            <p>华资软件</p>
-                                        </a>
-                                        <a ka="job_recommend_15" href="/job_detail/9d2afb5eb4796f191HB42tW4EVo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘(兼职) <span class="red">2-5K</span></div>
-                                            <p>整装之家（广州）...</p>
-                                        </a>
-                                        <a ka="job_recommend_16" href="/job_detail/da08b581f47a3db41nJ40t27GFM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-25K</span></div>
-                                            <p>三维家</p>
-                                        </a>
-                                        <a ka="job_recommend_17" href="/job_detail/239f72db42b081f91HN43d-8EVA~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘算法工程师 <span class="red">17-24K</span></div>
-                                            <p>虎牙直播</p>
-                                        </a>
-                                        <a ka="job_recommend_18" href="/job_detail/62493c683819ff9c1nN93tq4GVM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">15-30K</span></div>
-                                            <p>视源股份(CVTE)</p>
-                                        </a>
-                                        <a ka="job_recommend_19" href="/job_detail/4dffdd82278282781HRz3N-4EFQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-30K</span></div>
-                                            <p>泰尼游戏</p>
-                                        </a>
-                                        <a ka="job_recommend_20" href="/job_detail/08a848d267823fff1XJ63NS6FFs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">15-30K</span></div>
-                                            <p>视源股份(CVTE)</p>
+                                        <a ka="job_recommend_10" href="/job_detail/cd6802ea5bfffd2c1nN_29q1EVA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">java开发工程师 <span class="red">6-12K</span></div>
+                                            <p>泛微网络</p>
                                         </a>
                                             </li>
                                             <li class="">
-                                        <a ka="job_recommend_21" href="/job_detail/199dbe8d8c2e7fe21n1_29u9FFQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师(广州)(腾讯WiFi管家) <span class="red">25-50K</span></div>
-                                            <p>腾讯</p>
+                                        <a ka="job_recommend_11" href="/job_detail/91f1e06de7eaf24a1nB-0tu0FVY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级java开发工程师 <span class="red">30-60K</span></div>
+                                            <p>Boss直聘</p>
                                         </a>
-                                        <a ka="job_recommend_22" href="/job_detail/e23b1e01d86655371HN73t65F1Q~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据分析/数据挖掘实习生 <span class="red">2-3K</span></div>
-                                            <p>广州泰迪</p>
+                                        <a ka="job_recommend_12" href="/job_detail/3437d979ae4b5ec91nx70t-7FlU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">15-25K</span></div>
+                                            <p>北京易盟天地</p>
                                         </a>
-                                        <a ka="job_recommend_23" href="/job_detail/4582802275f81f8c03Z609--EFI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 (MJ000199) <span class="red">15-30K·15薪</span></div>
-                                            <p>虎牙直播</p>
+                                        <a ka="job_recommend_13" href="/job_detail/8463bacadaabf55d1HN-3tS7GVE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA开发工程师 <span class="red">11-16K</span></div>
+                                            <p>北京纬创</p>
                                         </a>
-                                        <a ka="job_recommend_24" href="/job_detail/d84aa6a1cfaae5eb1X163Ny_FlQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">2-4K</span></div>
-                                            <p>阿凡提</p>
+                                        <a ka="job_recommend_14" href="/job_detail/845835eab1ef78d01HN72966F1U~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java 开发工程师 <span class="red">10-15K</span></div>
+                                            <p>中科软科技</p>
                                         </a>
-                                        <a ka="job_recommend_25" href="/job_detail/bef18a06cc4e48ad1Xx53dq7FFI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-30K</span></div>
-                                            <p>视源股份(CVTE)</p>
+                                        <a ka="job_recommend_15" href="/job_detail/6d2de54606082ac81X162d24EFE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">资深java开发工程师 <span class="red">25-50K</span></div>
+                                            <p>爱奇艺</p>
                                         </a>
-                                        <a ka="job_recommend_26" href="/job_detail/168ed4e5ac0f9de31n1z3dq8E1Q~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">8-16K</span></div>
-                                            <p>多益网络</p>
+                                        <a ka="job_recommend_16" href="/job_detail/ad4f562d4db503c303R83Nu8ElI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA开发工程师 <span class="red">20-25K·14薪</span></div>
+                                            <p>乐居</p>
                                         </a>
-                                        <a ka="job_recommend_27" href="/job_detail/413a3604546e3fab1XJ50tS7EFQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">15-30K</span></div>
-                                            <p>广州视睿</p>
+                                        <a ka="job_recommend_17" href="/job_detail/22648e0be3a5eda41nZ_3du-Flo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">java开发工程师 <span class="red">10-20K</span></div>
+                                            <p>微医集团</p>
                                         </a>
-                                        <a ka="job_recommend_28" href="/job_detail/642d81d23c38f5a91n173Nq-FlI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">15-30K</span></div>
-                                            <p>视源股份(CVTE)</p>
+                                        <a ka="job_recommend_18" href="/job_detail/707b631a2d76f0641H152tu-EFc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">25-30K</span></div>
+                                            <p>秒针系统</p>
                                         </a>
-                                        <a ka="job_recommend_29" href="/job_detail/b584b4c304c1773b1n182N6-GVs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">10-15K</span></div>
-                                            <p>广州多益网络</p>
+                                        <a ka="job_recommend_19" href="/job_detail/2ff7b15dbb8f6a751HNz2t69F1o~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级JAVA开发工程师 <span class="red">15-25K</span></div>
+                                            <p>太极股份</p>
                                         </a>
-                                        <a ka="job_recommend_30" href="/job_detail/013ed2e416b414161nx-3tq1EVM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">3-5K</span></div>
-                                            <p>深圳市诚鑫文化传媒</p>
+                                        <a ka="job_recommend_20" href="/job_detail/0047ff6741c758d803V929q5GVE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA开发工程师 <span class="red">21-30K·14薪</span></div>
+                                            <p>创业慧康</p>
                                         </a>
                                             </li>
                                             <li class="">
-                                        <a ka="job_recommend_31" href="/job_detail/bea5dc0ee44a1e471nx82NS7GVU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-20K</span></div>
-                                            <p>iGola骑鹅旅行</p>
+                                        <a ka="job_recommend_21" href="/job_detail/50c2f46c6e0500cb1X1-3di7ElM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">25-50K</span></div>
+                                            <p>衣二三</p>
                                         </a>
-                                        <a ka="job_recommend_32" href="/job_detail/68ca2836385b4bd01XFy2Nm7F1U~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">10-12K</span></div>
-                                            <p>广州微天下公司</p>
+                                        <a ka="job_recommend_22" href="/job_detail/024a34d6319096ed1Hd-09W5E1o~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">20-40K</span></div>
+                                            <p>饿了么</p>
                                         </a>
-                                        <a ka="job_recommend_33" href="/job_detail/c5f161fd80174bff1HBz2tu4FFM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">6-10K</span></div>
-                                            <p>用呗金融</p>
+                                        <a ka="job_recommend_23" href="/job_detail/cfac764762e8562603V52NW6Fls~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">9-13K</span></div>
+                                            <p>艾融软件</p>
                                         </a>
-                                        <a ka="job_recommend_34" href="/job_detail/cdc7a05cd770bd4c1nd53di_Elo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-20K</span></div>
-                                            <p>思迈特软件</p>
+                                        <a ka="job_recommend_24" href="/job_detail/fc90ed87df3cb5201HR52tW-EVc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA 开发工程师 <span class="red">20-40K</span></div>
+                                            <p>Boss直聘</p>
                                         </a>
-                                        <a ka="job_recommend_35" href="/job_detail/c44937e3edcc8efa1HF-3t-0F1I~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘高级/资深工程师/专家 <span class="red">20-40K</span></div>
-                                            <p>小鹏汽车</p>
+                                        <a ka="job_recommend_25" href="/job_detail/8bfd32fbbc1a97a61HB739q0FFo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA开发工程师 <span class="red">25-50K</span></div>
+                                            <p>今日头条</p>
                                         </a>
-                                        <a ka="job_recommend_36" href="/job_detail/eb4db36c21b0812a1Xd-3t24FlI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">15-20K</span></div>
-                                            <p>天创成业</p>
+                                        <a ka="job_recommend_26" href="/job_detail/576d47591ea63b3b1HZ729q5E1E~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">11-20K</span></div>
+                                            <p>网宿科技</p>
                                         </a>
-                                        <a ka="job_recommend_37" href="/job_detail/02c4380b1c71409003Z73dW-FVc~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘工程师 <span class="red">13-26K·13薪</span></div>
-                                            <p>宇信科技</p>
+                                        <a ka="job_recommend_27" href="/job_detail/61dc1f0cb5a449791XV72t64GFc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java 高级开发工程师 <span class="red">30-55K·14薪</span></div>
+                                            <p>便利蜂</p>
                                         </a>
-                                        <a ka="job_recommend_38" href="/job_detail/336ff41e1ad337941H1_09W8GVc~.html" target="_blank" class="recommend-li">
-                                            <div class="name">金融行业数据挖掘工程师 <span class="red">12-20K</span></div>
-                                            <p>宇信科技</p>
+                                        <a ka="job_recommend_28" href="/job_detail/c93d73411a4810621HF63t24EVc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">java开发工程师 <span class="red">8-12K</span></div>
+                                            <p>中科软</p>
                                         </a>
-                                        <a ka="job_recommend_39" href="/job_detail/56c2977848885cfe1HJ-3NS9F1c~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘实习生 <span class="red">2-4K</span></div>
-                                            <p>广电运通</p>
+                                        <a ka="job_recommend_29" href="/job_detail/e744319c5d1f437e03Z52N25E1I~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级Java开发工程师 <span class="red">25-40K·16薪</span></div>
+                                            <p>阿里巴巴集团</p>
                                         </a>
-                                        <a ka="job_recommend_40" href="/job_detail/2773e3a68caa42011n1929q-EFI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">数据挖掘 <span class="red">15-16K</span></div>
-                                            <p>合众投资</p>
+                                        <a ka="job_recommend_30" href="/job_detail/717345d745825e6b1XF-3di6EFE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">8-15K</span></div>
+                                            <p>泛微网络</p>
+                                        </a>
+                                            </li>
+                                            <li class="">
+                                        <a ka="job_recommend_31" href="/job_detail/8cef7c9091353fc31nJ62di4E1U~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">25-50K</span></div>
+                                            <p>一点资讯</p>
+                                        </a>
+                                        <a ka="job_recommend_32" href="/job_detail/91594b1346d4dc0d1Xx92d26FFQ~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">12-18K</span></div>
+                                            <p>东软集团</p>
+                                        </a>
+                                        <a ka="job_recommend_33" href="/job_detail/d4e0aa82bd7c61a51XF939m4E1Y~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">12-20K</span></div>
+                                            <p>亚信科技</p>
+                                        </a>
+                                        <a ka="job_recommend_34" href="/job_detail/decffe6d8888120403R42NS1FFE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">20-30K·13薪</span></div>
+                                            <p>猿辅导</p>
+                                        </a>
+                                        <a ka="job_recommend_35" href="/job_detail/eff1217314c521611HNy29S5GFM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java开发工程师 <span class="red">7-11K</span></div>
+                                            <p>中科软</p>
+                                        </a>
+                                        <a ka="job_recommend_36" href="/job_detail/fe8ea3081fc489f31X182t--EFY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级java开发工程师 <span class="red">18-20K·13薪</span></div>
+                                            <p>苏宁易购</p>
+                                        </a>
+                                        <a ka="job_recommend_37" href="/job_detail/367b474dfe4ce0f503V72NS0GVE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">Java高级开发工程师 <span class="red">20-35K</span></div>
+                                            <p>阿里巴巴集团</p>
+                                        </a>
+                                        <a ka="job_recommend_38" href="/job_detail/2cd07dcc5c4c2fed1XF4392-FFI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级Java开发工程师 <span class="red">25-35K</span></div>
+                                            <p>百度</p>
+                                        </a>
+                                        <a ka="job_recommend_39" href="/job_detail/f6b738e0b72b3a1c1HF73N65E1s~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级java开发工程师 <span class="red">30-60K</span></div>
+                                            <p>Boss直聘</p>
+                                        </a>
+                                        <a ka="job_recommend_40" href="/job_detail/ececa28cc0365f3a1XN-0tW8FVM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">JAVA开发工程师 <span class="red">11-17K</span></div>
+                                            <p>科蓝软件</p>
                                         </a>
                                             </li>
                                  </ul>
@@ -659,101 +659,101 @@
         <dl class="links-item">
         <dt>推荐公司：</dt>
         <dd>
-                        <a href="/gongsi/b1f6bb653fda2c451HB73dS0.html" target="_blank" ka="seo-brand-1">鹰击长空</a>
-                        <a href="/gongsi/552a30f53b81f7341HB73N24.html" target="_blank" ka="seo-brand-2">名医汇</a>
-                        <a href="/gongsi/aba10fccac13222f1HB73dS5.html" target="_blank" ka="seo-brand-3">锐盛电子</a>
-                        <a href="/gongsi/8b9e730f751775111HB73dS4.html" target="_blank" ka="seo-brand-4">中鑫开联</a>
-                        <a href="/gongsi/6155207820e5e30a1HB73dS8.html" target="_blank" ka="seo-brand-5">瑞祥装饰望京分公司</a>
-                        <a href="/gongsi/a8d7f6216ede52cc1HB73N2-.html" target="_blank" ka="seo-brand-6">这里科技(互联网)</a>
-                        <a href="/gongsi/l11133821.html" target="_blank" ka="seo-brand-7">厦门焯勤实业有限公司</a>
-                        <a href="/gongsi/l1789493.html" target="_blank" ka="seo-brand-8">北京中电华腾文化发展有限公司</a>
-                        <a href="/gongsi/l11037905.html" target="_blank" ka="seo-brand-9">河南艺盛富商贸有限公司</a>
-                        <a href="/gongsi/l11003837.html" target="_blank" ka="seo-brand-10">海南省人民医院后勤服务公司后勤服务部</a>
-                        <a href="/gongsi/l1768709.html" target="_blank" ka="seo-brand-11">张家界汇青创业空间服务有限责任公司</a>
-                        <a href="/gongsi/l1919364.html" target="_blank" ka="seo-brand-12">重庆市天元天勇印务有限公司</a>
-                        <a href="/gongsi/l1996970.html" target="_blank" ka="seo-brand-13">广西南宁农邦科技有限公司南宁延安经营部</a>
-                        <a href="/gongsi/l1706979.html" target="_blank" ka="seo-brand-14">山东众如一商贸有限公司</a>
-                        <a href="/gongsi/l1389519.html" target="_blank" ka="seo-brand-15">三明市太元电子有限公司</a>
-                        <a href="/gongsi/l1975335.html" target="_blank" ka="seo-brand-16">乐清市挚诚网络科技有限公司</a>
-                        <a href="/gongsi/l1867401.html" target="_blank" ka="seo-brand-17">扬州市博尧试验机械有限公司</a>
-                        <a href="/gongsi/l1777847.html" target="_blank" ka="seo-brand-18">台州市华海航运有限公司</a>
-                        <a href="/gongsi/l1289534.html" target="_blank" ka="seo-brand-19">北京蓝拓扑信息技术有限公司</a>
-                        <a href="/gongsi/l1458540.html" target="_blank" ka="seo-brand-20">广州市纬信科技有限公司</a>
-                        <a href="/gongsi/l11119086.html" target="_blank" ka="seo-brand-21">深圳市南山区佳丽雅商行</a>
-                        <a href="/gongsi/l1641101.html" target="_blank" ka="seo-brand-22">艺途企业管理有限公司</a>
-                        <a href="/gongsi/l1338872.html" target="_blank" ka="seo-brand-23">广西卓热新能源科技有限公司</a>
-                        <a href="/gongsi/l1973475.html" target="_blank" ka="seo-brand-24">深圳市日日盛电子有限公司</a>
-                        <a href="/gongsi/l1758076.html" target="_blank" ka="seo-brand-25">深圳市龙岗区坂田领尚形象设计工作室</a>
-                        <a href="/gongsi/l1407151.html" target="_blank" ka="seo-brand-26">平舆县聚米微商工作室</a>
-                        <a href="/gongsi/l115255.html" target="_blank" ka="seo-brand-27">齐齐哈尔西格玛电梯销售有限公司</a>
-                        <a href="/gongsi/l1302228.html" target="_blank" ka="seo-brand-28">广州中宏泰达股权投资基金管理有限公司</a>
-                        <a href="/gongsi/l11094102.html" target="_blank" ka="seo-brand-29">深圳市瑞三汽车销售有限公司</a>
-                        <a href="/gongsi/l1273428.html" target="_blank" ka="seo-brand-30">山东亿辰商贸有限公司</a>
+                        <a href="/gongsi/e13a44dc737e86c70n19.html" target="_blank" ka="seo-brand-1">搜点网络</a>
+                        <a href="/gongsi/27aec0665d4636010nN9.html" target="_blank" ka="seo-brand-2">喵呜科技</a>
+                        <a href="/gongsi/890d799b81eb4dcf0nx-.html" target="_blank" ka="seo-brand-3">智慧流</a>
+                        <a href="/gongsi/1f2763958cedb0720n15.html" target="_blank" ka="seo-brand-4">医微讯科技</a>
+                        <a href="/gongsi/365b9b93c33dfb7c0n14.html" target="_blank" ka="seo-brand-5">天平派</a>
+                        <a href="/gongsi/e80729d5cb9daec30n16.html" target="_blank" ka="seo-brand-6">瑞思学科英语</a>
+                        <a href="/gongsi/58e690340c04ec2d0nx4.html" target="_blank" ka="seo-brand-7">节操精选</a>
+                        <a href="/gongsi/0979070fc97e501a0nx7.html" target="_blank" ka="seo-brand-8">美团网</a>
+                        <a href="/gongsi/1fe8fb165350fc370n18.html" target="_blank" ka="seo-brand-9">明源</a>
+                        <a href="/gongsi/3db334c7832b23fc0nNz.html" target="_blank" ka="seo-brand-10">上海逸泽信息</a>
+                        <a href="/gongsi/l1696570.html" target="_blank" ka="seo-brand-11">上海釜祺实业有限公司</a>
+                        <a href="/gongsi/l1400116.html" target="_blank" ka="seo-brand-12">峨眉山市明日设计工程有限公司</a>
+                        <a href="/gongsi/l1551626.html" target="_blank" ka="seo-brand-13">天长市悠闲居生态农业有限公司</a>
+                        <a href="/gongsi/l1451844.html" target="_blank" ka="seo-brand-14">陕西天卓冶金工程有限公司</a>
+                        <a href="/gongsi/l1808562.html" target="_blank" ka="seo-brand-15">六安市建新铸业有限公司</a>
+                        <a href="/gongsi/l1370145.html" target="_blank" ka="seo-brand-16">深圳方宝商业贸易有限公司</a>
+                        <a href="/gongsi/l11124267.html" target="_blank" ka="seo-brand-17">广州桂成建材贸易有限公司</a>
+                        <a href="/gongsi/l1846705.html" target="_blank" ka="seo-brand-18">金马百家国际文化传媒有限公司</a>
+                        <a href="/gongsi/l1138979.html" target="_blank" ka="seo-brand-19">峇瑞迦工业科技有限公司</a>
+                        <a href="/gongsi/l1208543.html" target="_blank" ka="seo-brand-20">石河子市新鑫家政服务部</a>
+                        <a href="/gongsi/l11041687.html" target="_blank" ka="seo-brand-21">东莞市铭邦照明科技有限公司</a>
+                        <a href="/gongsi/l11147195.html" target="_blank" ka="seo-brand-22">西安宏海净化科技有限公司</a>
+                        <a href="/gongsi/l11009480.html" target="_blank" ka="seo-brand-23">凤阳县金洋劳务有限公司</a>
+                        <a href="/gongsi/l1587140.html" target="_blank" ka="seo-brand-24">陕西正华集团广纳商贸有限公司</a>
+                        <a href="/gongsi/l1103148.html" target="_blank" ka="seo-brand-25">天津德泓国际贸易有限公司</a>
+                        <a href="/gongsi/l1522290.html" target="_blank" ka="seo-brand-26">重庆诚祥房地产经纪有限公司劲力分部</a>
+                        <a href="/gongsi/l1610930.html" target="_blank" ka="seo-brand-27">汕头市潮阳区谷饶海怡制衣厂</a>
+                        <a href="/gongsi/l1283834.html" target="_blank" ka="seo-brand-28">四川奥源电子科技有限公司</a>
+                        <a href="/gongsi/l1593517.html" target="_blank" ka="seo-brand-29">上海恒佑塑胶制品有限公司</a>
+                        <a href="/gongsi/l1843396.html" target="_blank" ka="seo-brand-30">厦门草木人间商贸有限公司</a>
         </dd>
     </dl>
     <dl class="links-item">
         <dt>城市招聘：</dt>
         <dd>
-                     <a href="/c101250100/" target="_blank" ka="seo-city-1">长沙招聘</a>
-                     <a href="/c101301100/" target="_blank" ka="seo-city-2">钦州招聘</a>
-                     <a href="/c101210100/" target="_blank" ka="seo-city-3">杭州招聘</a>
-                     <a href="/c101132100/" target="_blank" ka="seo-city-4">北屯市招聘</a>
-                     <a href="/c101132200/" target="_blank" ka="seo-city-5">可克达拉市招聘</a>
-                     <a href="/c101310700/" target="_blank" ka="seo-city-6">文昌招聘</a>
-                     <a href="/c101190100/" target="_blank" ka="seo-city-7">南京招聘</a>
-                     <a href="/c101220600/" target="_blank" ka="seo-city-8">安庆招聘</a>
-                     <a href="/c101121700/" target="_blank" ka="seo-city-9">聊城招聘</a>
-                     <a href="/c101121200/" target="_blank" ka="seo-city-10">东营招聘</a>
-                     <a href="/c101190800/" target="_blank" ka="seo-city-11">徐州招聘</a>
-                     <a href="/c101230200/" target="_blank" ka="seo-city-12">厦门招聘</a>
-                     <a href="/c101200400/" target="_blank" ka="seo-city-13">孝感招聘</a>
-                     <a href="/c101060600/" target="_blank" ka="seo-city-14">辽源招聘</a>
-                     <a href="/c101130100/" target="_blank" ka="seo-city-15">乌鲁木齐招聘</a>
-                     <a href="/c101070600/" target="_blank" ka="seo-city-16">丹东招聘</a>
-                     <a href="/c101291100/" target="_blank" ka="seo-city-17">文山招聘</a>
-                     <a href="/c101221000/" target="_blank" ka="seo-city-18">滁州招聘</a>
-                     <a href="/c101210300/" target="_blank" ka="seo-city-19">嘉兴招聘</a>
-                     <a href="/c101190200/" target="_blank" ka="seo-city-20">无锡招聘</a>
+                     <a href="/c101080100/" target="_blank" ka="seo-city-1">呼和浩特招聘</a>
+                     <a href="/c101250700/" target="_blank" ka="seo-city-2">益阳招聘</a>
+                     <a href="/c101190300/" target="_blank" ka="seo-city-3">镇江招聘</a>
+                     <a href="/c101050200/" target="_blank" ka="seo-city-4">齐齐哈尔招聘</a>
+                     <a href="/c101131900/" target="_blank" ka="seo-city-5">五家渠招聘</a>
+                     <a href="/c101271700/" target="_blank" ka="seo-city-6">德阳招聘</a>
+                     <a href="/c101270200/" target="_blank" ka="seo-city-7">攀枝花招聘</a>
+                     <a href="/c101181400/" target="_blank" ka="seo-city-8">周口招聘</a>
+                     <a href="/c101140200/" target="_blank" ka="seo-city-9">日喀则招聘</a>
+                     <a href="/c101190100/" target="_blank" ka="seo-city-10">南京招聘</a>
+                     <a href="/c101080500/" target="_blank" ka="seo-city-11">赤峰招聘</a>
+                     <a href="/c101272100/" target="_blank" ka="seo-city-12">甘孜招聘</a>
+                     <a href="/c101050800/" target="_blank" ka="seo-city-13">大庆招聘</a>
+                     <a href="/c101271900/" target="_blank" ka="seo-city-14">阿坝招聘</a>
+                     <a href="/c101301100/" target="_blank" ka="seo-city-15">钦州招聘</a>
+                     <a href="/c101070900/" target="_blank" ka="seo-city-16">阜新招聘</a>
+                     <a href="/c101290500/" target="_blank" ka="seo-city-17">普洱招聘</a>
+                     <a href="/c101311500/" target="_blank" ka="seo-city-18">昌江招聘</a>
+                     <a href="/c101150200/" target="_blank" ka="seo-city-19">海东招聘</a>
+                     <a href="/c101251000/" target="_blank" ka="seo-city-20">岳阳招聘</a>
         </dd>
     </dl>
     <dl class="links-item">
         <dt>热门职位：</dt>
         <dd>
-                    <a href="/p100513/" target="_blank" ka="seo-position-1">算法研究员招聘</a>
-                    <a href="/p100203/" target="_blank" ka="seo-position-2">iOS招聘</a>
-                    <a href="/p100604/" target="_blank" ka="seo-position-3">项目专员招聘</a>
-                    <a href="/p100303/" target="_blank" ka="seo-position-4">功能测试招聘</a>
-                    <a href="/p100122/" target="_blank" ka="seo-position-5">数据采集招聘</a>
-                    <a href="/p100801/" target="_blank" ka="seo-position-6">硬件招聘</a>
-                    <a href="/p100309/" target="_blank" ka="seo-position-7">软件测试招聘</a>
-                    <a href="/p100706/" target="_blank" ka="seo-position-8">运维总监招聘</a>
-                    <a href="/p101011/" target="_blank" ka="seo-position-9">通信项目专员招聘</a>
-                    <a href="/p101002/" target="_blank" ka="seo-position-10">通信研发工程师招聘</a>
-                    <a href="/p101307/" target="_blank" ka="seo-position-11">算法研究员招聘</a>
-                    <a href="/p100812/" target="_blank" ka="seo-position-12">模具设计招聘</a>
-                    <a href="/p100605/" target="_blank" ka="seo-position-13">实施顾问招聘</a>
-                    <a href="/p100806/" target="_blank" ka="seo-position-14">驱动开发招聘</a>
-                    <a href="/p100299/" target="_blank" ka="seo-position-15">移动开发招聘</a>
-                    <a href="/p100802/" target="_blank" ka="seo-position-16">嵌入式招聘</a>
-                    <a href="/p100201/" target="_blank" ka="seo-position-17">HTML5招聘</a>
-                    <a href="/p100511/" target="_blank" ka="seo-position-18">数据分析师招聘</a>
-                    <a href="/p100205/" target="_blank" ka="seo-position-19">移动web前端招聘</a>
-                    <a href="/p100606/" target="_blank" ka="seo-position-20">实施工程师招聘</a>
-                    <a href="/p101399/" target="_blank" ka="seo-position-21">人工智能招聘</a>
-                    <a href="/p100509/" target="_blank" ka="seo-position-22">数据挖掘招聘</a>
-                    <a href="/p101004/" target="_blank" ka="seo-position-23">移动通信工程师招聘</a>
-                    <a href="/p100409/" target="_blank" ka="seo-position-24">DBA招聘</a>
-                    <a href="/p101305/" target="_blank" ka="seo-position-25">语音识别招聘</a>
-                    <a href="/p100119/" target="_blank" ka="seo-position-26">Erlang招聘</a>
-                    <a href="/p101018/" target="_blank" ka="seo-position-27">光网络工程师招聘</a>
-                    <a href="/p101010/" target="_blank" ka="seo-position-28">通信标准化工程师招聘</a>
-                    <a href="/p100117/" target="_blank" ka="seo-position-29">自然语言处理招聘</a>
-                    <a href="/p101009/" target="_blank" ka="seo-position-30">通信电源工程师招聘</a>
+                    <a href="/p100507/" target="_blank" ka="seo-position-1">数据仓库招聘</a>
+                    <a href="/p100804/" target="_blank" ka="seo-position-2">单片机招聘</a>
+                    <a href="/p100117/" target="_blank" ka="seo-position-3">自然语言处理招聘</a>
+                    <a href="/p101201/" target="_blank" ka="seo-position-4">售前工程师招聘</a>
+                    <a href="/p100706/" target="_blank" ka="seo-position-5">运维总监招聘</a>
+                    <a href="/p101011/" target="_blank" ka="seo-position-6">通信项目专员招聘</a>
+                    <a href="/p100705/" target="_blank" ka="seo-position-7">CTO招聘</a>
+                    <a href="/p100107/" target="_blank" ka="seo-position-8">.NET招聘</a>
+                    <a href="/p100409/" target="_blank" ka="seo-position-9">DBA招聘</a>
+                    <a href="/p100903/" target="_blank" ka="seo-position-10">Flash招聘</a>
+                    <a href="/p100403/" target="_blank" ka="seo-position-11">网络工程师招聘</a>
+                    <a href="/p101001/" target="_blank" ka="seo-position-12">通信技术工程师招聘</a>
+                    <a href="/p100704/" target="_blank" ka="seo-position-13">架构师招聘</a>
+                    <a href="/p101012/" target="_blank" ka="seo-position-14">通信项目经理招聘</a>
+                    <a href="/p100603/" target="_blank" ka="seo-position-15">项目助理招聘</a>
+                    <a href="/p101010/" target="_blank" ka="seo-position-16">通信标准化工程师招聘</a>
+                    <a href="/p100402/" target="_blank" ka="seo-position-17">运维开发工程师招聘</a>
+                    <a href="/p100307/" target="_blank" ka="seo-position-18">游戏测试招聘</a>
+                    <a href="/p101307/" target="_blank" ka="seo-position-19">算法研究员招聘</a>
+                    <a href="/p100408/" target="_blank" ka="seo-position-20">系统安全招聘</a>
+                    <a href="/p100602/" target="_blank" ka="seo-position-21">项目主管招聘</a>
+                    <a href="/p100511/" target="_blank" ka="seo-position-22">数据分析师招聘</a>
+                    <a href="/p100112/" target="_blank" ka="seo-position-23">Perl招聘</a>
+                    <a href="/p100606/" target="_blank" ka="seo-position-24">实施工程师招聘</a>
+                    <a href="/p101014/" target="_blank" ka="seo-position-25">通信测试工程师招聘</a>
+                    <a href="/p100599/" target="_blank" ka="seo-position-26">数据招聘</a>
+                    <a href="/p100513/" target="_blank" ka="seo-position-27">算法研究员招聘</a>
+                    <a href="/p100121/" target="_blank" ka="seo-position-28">语音/视频/图形开发招聘</a>
+                    <a href="/p101399/" target="_blank" ka="seo-position-29">人工智能招聘</a>
+                    <a href="/p100407/" target="_blank" ka="seo-position-30">网络安全招聘</a>
         </dd>
     </dl>
     <label><span>展开</span><i class="fz fz-slidedown"></i></label>
 </div>                    <div class="pos-bread">
-                        <a href="/" ka="job-breadcrumb-bottom1">首页</a><i class="icon-arrow-right"></i><a href="/c101280100/" ka="job-breadcrumb-bottom2">广州招聘</a>·<a href="/p100509/" ka="job-breadcrumb-bottom21">数据挖掘招聘</a><i class="icon-arrow-right"></i><a href="/c101280100-p100509/" ka="job-breadcrumb-bottom3">广州数据挖掘招聘</a><i class="icon-arrow-right"></i><a href="/job_detail/0780b2b4c3dff7981Xdy2t29FlI~.html" ka="job-breadcrumb-bottom4">美的it数据挖掘招聘</a>
+                        <a href="/" ka="job-breadcrumb-bottom1">首页</a><i class="icon-arrow-right"></i><a href="/c101010100/" ka="job-breadcrumb-bottom2">北京招聘</a>·<a href="/p100101/" ka="job-breadcrumb-bottom21">Java招聘</a><i class="icon-arrow-right"></i><a href="/c101010100-p100101/" ka="job-breadcrumb-bottom3">北京Java招聘</a><i class="icon-arrow-right"></i><a href="/job_detail/a82c3be9abcd6db31nZ43di_EFs~.html" ka="job-breadcrumb-bottom4">阿里巴巴集团Java招聘</a>
                     </div>
                 </div>
             </div>
@@ -1217,14 +1217,14 @@
     </div>
     <div class="sign-content">
         <div class="inner-box">
-            <input type="hidden" class="scene" value="cd9e48eefd394acf800579ddc7bd0b32"/>
+            <input type="hidden" class="scene" value="c1e8d891b03c4acabafd441031f8b523"/>
             <h4>微信快速注册</h4>
             <div class="qrcodeimg-box">
                 <div class="invalid-box">
                     <p>请重新刷新二维码</p>
                     <button class="btn">点击刷新</button>
                 </div>
-                <img src="" data-url="https://www.zhipin.com/qrscan/dispatcher?qrId=cd9e48eefd394acf800579ddc7bd0b32">
+                <img src="" data-url="https://www.zhipin.com/qrscan/dispatcher?qrId=c1e8d891b03c4acabafd441031f8b523">
             </div>
             <p class="sign-tip">请用微信“扫一扫”扫描上方二维码<br/>进入快捷注册</p>
             <div class="text-tip">已有账号 <a href="javascript:;" class="link-signin">立即登录</a></div>
@@ -1265,7 +1265,7 @@
         <li><span class="text">我是谁谁谁我是谁谁谁</span></li>
     </ul>
     <div class="avatar">
-            <img src="https://img.bosszhipin.com/boss/avatar/avatar_5.png?x-oss-process=image/resize,w_100,limit_0" />
+            <img src="https://img.bosszhipin.com/beijin/mcs/useravatar/20160622/bf0aea9604f1b0fb67be488b024a8a678c7dd922ad47494fc02c388e12c00eac_s.jpg?x-oss-process=image/resize,w_100,limit_0" />
     </div>
 </div>
 <div class="container-tip">
@@ -1417,11 +1417,11 @@
 </script><script type="application/ld+json">
     {
         "@context": "https://zhanzhang.baidu.com/contexts/cambrian.jsonld",
-        "@id": "https://www.zhipin.com/job_detail/0780b2b4c3dff7981Xdy2t29FlI~.html",
-        "title": "【数据挖掘招聘】_美的it招聘-BOSS直聘",
-        "description": "美的it招聘数据挖掘牛人,更多美的it数据挖掘招聘信息,请登录BOSS直聘查看详细的美的it对数据挖掘岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。",
-        "pubDate": "2018-07-27T18:45:48",
-        "upDate":  "2018-07-27T18:45:48"
+        "@id": "https://www.zhipin.com/job_detail/a82c3be9abcd6db31nZ43di_EFs~.html",
+        "title": "【亚博科技-Java开发工程师招聘】_阿里巴巴集团招聘-BOSS直聘",
+        "description": "阿里巴巴集团招聘亚博科技-Java开发工程师牛人,更多阿里巴巴集团亚博科技-Java开发工程师招聘信息,请登录BOSS直聘查看详细的阿里巴巴集团对亚博科技-Java开发工程师岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。",
+        "pubDate": "2017-06-22T14:20:12",
+        "upDate":  "2019-07-01T10:35:08"
     }
 </script>
 </html>

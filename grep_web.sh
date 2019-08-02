@@ -42,7 +42,7 @@ function Basic_Info() {
  
     # 删除匹配到关键字以上所有行
     row_num=$(cat cp_web.html | gawk '/<h3>职位描述<\/h3>/{print NR}') 
-    let $row_num-- 
+    #let $row_num-- 
     sed -i '1,'$row_num'd' cp_web.html     
 } 
 
@@ -100,11 +100,9 @@ function Position_and_Requirements() {
     # 筛选招聘要求
     str_01=$(cat cp_web.html | sed  's/<\/*[a-z]*>//g') 
     str_02=$(echo "$str_01" | gawk -F [\>\<] '{print $1"\n",$3"\n",$5"\n",$7"\n",$9"\n",$11"\n",$13"\n",$15"\n",$17"\n",$19"\n",$21"\n",$23"\n",$25"\n",$27"\n",$29"\n",$31"\n"}') 
-    # str_02=$(echo "$str_01" | gawk -F [\>\<] '{for (i=0;i<40;i++)print $i}'
-    # recruitment_info=$(echo "$str_02" | grep -En '[0-9]|要求|资格' | gawk '{print $2"\n"}' | sed 's/^[0-9]/\ \ \ \ &/g') 
     recruitment_info=$(echo "$str_02" | sed -n '/ ./p' | sed '/团队介绍/,$d' | sed -n 's/^ //p' | sed -n 's/^/\t/p')  
     
-    echo "${recruitment_info}" > result.txt 
+    # echo "${recruitment_info}" > result.txt 
 
     # work_info=$(cat cp_web.html | sed  '/<.*>/d')
     # echo "${work_info}" >> result.txt 
@@ -118,40 +116,40 @@ function Extended_Text_Compositor() {
     Business_Information_and_Address 
     Position_and_Requirements 
 
-    # # 更新时间
-    # echo "${up_time}" > result.txt    
+    # 更新时间
+    echo "${up_time}" > result.txt    
 
-    # # 招聘标题
-    # echo -e "${title}\n" >> result.txt 
-    # 
-    # # 招聘岗位
-    # echo "${job_name}" >> result.txt 
+    # 招聘标题
+    echo -e "${title}\n" >> result.txt 
+    
+    # 招聘岗位
+    echo "${job_name}" >> result.txt 
 
-    # # 招聘发起人;招聘人信息
-    # echo "${HR}    ${HR_info}" >> result.txt 
-    # 
-    # # 招聘状态
-    # echo "${job_status}" >> result.txt 
-    # 
-    # # 招聘基本要求
-    # echo "${basic_requirements}" >> result.txt 
-    # 
-    # # 参考薪资
-    # echo "${job_money}" >> result.txt 
+    # 招聘发起人;招聘人信息
+    echo "${HR}    ${HR_info}" >> result.txt 
+    
+    # 招聘状态
+    echo "${job_status}" >> result.txt 
+    
+    # 招聘基本要求
+    echo "${basic_requirements}" >> result.txt 
+    
+    # 参考薪资
+    echo "${job_money}" >> result.txt 
 
-    # # 工作福利
-    # echo -e  "${job_welfare}\n" >> result.txt 
+    # 工作福利
+    echo -e  "${job_welfare}\n" >> result.txt 
 
     # 工作职责;招聘要求
-    # echo -e "职位信息:\n${recruitment_info}\n" > result.txt 
+    echo -e "职位信息:\n${recruitment_info}\n" >> result.txt 
     
 
-    # # 工商信息
-    # echo "${job_information}" >> result.txt
-    # echo "${information_url}" >> result.txt 
+    # 工商信息
+    echo "${job_information}" >> result.txt
+    echo "${information_url}" >> result.txt 
 
-    # # 工作地址
-    # echo "${job_address}" >> result.txt 
+    # 工作地址
+    echo "${job_address}" >> result.txt 
 }
 
 Extended_Text_Compositor 

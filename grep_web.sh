@@ -97,13 +97,17 @@ function Position_and_Requirements() {
     new_row_num=$[ $row_num - 3 ] 
     sed -i ''$new_row_num',$d' cp_web.html 
     
+
     # 筛选招聘要求
-    str_01=$(cat cp_web.html | sed  's/<\/*[a-z]*>//g') 
-    str_02=$(echo "$str_01" | gawk -F [\>\<] '{print $1"\n",$3"\n",$5"\n",$7"\n",$9"\n",$11"\n",$13"\n",$15"\n",$17"\n",$19"\n",$21"\n",$23"\n",$25"\n",$27"\n",$29"\n",$31"\n"}') 
-    recruitment_info=$(echo "$str_02" | sed -n '/ ./p' | sed '/团队介绍/,$d' | sed -n 's/^ //p' | sed -n 's/^/\t/p')  
+    str_01=$(cat cp_web.html  | sed  's/<\/*[a-z]*>//g') 
+    str_02=$(echo "${str_01}" | gawk -F [\>\<] '{print $1"\n",$3"\n",$5"\n",$7"\n",$9"\n",$11"\n",$13"\n",$15"\n",$17"\n",$19"\n",$21"\n",$23"\n",$25"\n",$27"\n",$29"\n",$31"\n"}') 
+    str_03=$(echo "${str_02}" | sed -n '/ ./p' | sed 's/\ //g;s/\r//g' | grep -v '^$' | sed -n 's/^/\t/p')
+    str_04=$(echo "${str_03}" | sed -e '/[公司介绍|团队介绍]/,$d')
+    # str_05=$(echo "${str_04}" | )
+    recruitment_info=$(echo "$str_04" | sed 's/.*要求.*/工作要求:/p') 
+    
     
     # echo "${recruitment_info}" > result.txt 
-
     # work_info=$(cat cp_web.html | sed  '/<.*>/d')
     # echo "${work_info}" >> result.txt 
     # echo "${information}" >> result.txt 
@@ -117,7 +121,7 @@ function Extended_Text_Compositor() {
     Position_and_Requirements 
 
     # 更新时间
-    echo "${up_time}" > result.txt    
+    echo "${up_time}" >> result.txt    
 
     # 招聘标题
     echo -e "${title}\n" >> result.txt 
@@ -142,7 +146,6 @@ function Extended_Text_Compositor() {
 
     # 工作职责;招聘要求
     echo -e "职位信息:\n${recruitment_info}\n" >> result.txt 
-    
 
     # 工商信息
     echo "${job_information}" >> result.txt

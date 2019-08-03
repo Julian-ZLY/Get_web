@@ -1,50 +1,7 @@
-	                                 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
-	                                     1、统招本科或以上学历，计算机软件或相关专业； 专科四年以上经验。
- 2、精通JAVA编程，1-2年使用java语言实际开发经验，熟悉J2EE相关技术（Servlet、JMS、JDBC等），熟悉JAVA的ORMapping技术（如Hibernate、MyBATIS等），熟练使用Spring相关技术(SpringMVC、SpringBoot、SpringCloud等)，熟练使用常见的Java工具类等;
- 3、至少熟悉一种主流的数据库（如MySQL、Oracle等），熟练使用SQL语言进行开发；
- 4、对前端开发过程和模式有基本理解；
- 5、熟练掌握开发工具（如Eclipse、GIT或SVN、MAVEN等），能够严格按照公司编程规范编写代码;
- 6、对技术有强烈的兴趣，喜欢钻研，具有良好的学习能力，沟通技能，团队合作能力； 
- 硕士一年以上经验
- 985.211一年以上经验
- 本科3年以上经验
- 大专4年以上经验
- 薪资可谈。
- 
- 
- 
- 
- 
+https://www.zhipin.com/job_detail/?query=%E4%BA%91%E8%AE%A1%E7%AE%97&city=101200100&industry=&position=
+https://www.zhipin.com/job_detail/?query=云计算&city=101200100&industry=&position= 
 
-	                                 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+url  		%E4%BA%91%E8%AE%A1%E7%AE% 
+unicode 	\u4e91\u8ba1\u7b97
